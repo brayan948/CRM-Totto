@@ -1,4 +1,4 @@
-﻿id_pedido,id_cliente,id_canal,fecha_pedido,estado_pedido,monto_total
+id_pedido,id_cliente,id_canal,fecha_pedido,estado_pedido,monto_total
 1,1,3,2026-01-22,entregado,18182000
 2,1,3,2025-06-09,entregado,27238000
 3,1,2,2025-07-11,entregado,14562000

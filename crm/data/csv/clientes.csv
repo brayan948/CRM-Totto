@@ -1,4 +1,4 @@
-﻿id_cliente,nombre,id_tipo_cliente,id_etapa_trazabilidad,ciudad,email,telefono,fecha_registro,estado
+id_cliente,nombre,id_tipo_cliente,id_etapa_trazabilidad,ciudad,email,telefono,fecha_registro,estado
 1,Liceo Moderno #4,2,4,Bogota,cliente1@empresa.com.co,325614226,2025-06-06,activo
 2,Daniela Torres,1,5,Bogota,cliente2@gmail.com,302719583,2025-08-12,activo
 3,Catalina Martinez,1,5,Bogota,cliente3@gmail.com,328078673,2026-04-15,activo
