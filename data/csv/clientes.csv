@@ -1,0 +1,1501 @@
+﻿id_cliente,nombre,id_tipo_cliente,id_etapa_trazabilidad,ciudad,email,telefono,fecha_registro,estado
+1,Liceo Moderno #4,2,4,Bogota,cliente1@empresa.com.co,325614226,2025-06-06,activo
+2,Daniela Torres,1,5,Bogota,cliente2@gmail.com,302719583,2025-08-12,activo
+3,Catalina Martinez,1,5,Bogota,cliente3@gmail.com,328078673,2026-04-15,activo
+4,Almacenes Exito #2,5,5,Cartagena,cliente4@empresa.com.co,304668136,2025-01-06,activo
+5,Daniela Mendoza,1,5,Barranquilla,cliente5@gmail.com,321445199,2025-04-13,activo
+6,Catalina Ramirez,1,4,Medellin,cliente6@gmail.com,328038374,2024-06-25,activo
+7,Totto Unicentro #15,4,5,Bogota,cliente7@empresa.com.co,325667265,2025-09-21,activo
+8,Andres Hernandez,1,4,Cali,cliente8@gmail.com,328090293,2025-06-29,activo
+9,Felipe Vargas,1,5,Ibague,cliente9@gmail.com,304612365,2025-12-11,activo
+10,Distrimax SAS #7,5,5,Manizales,cliente10@empresa.com.co,307374122,2025-08-05,activo
+11,Totto C.C. Andino #12,4,5,Bogota,cliente11@empresa.com.co,315437923,2024-10-20,activo
+12,Camila Gutierrez,1,4,Medellin,cliente12@gmail.com,323094235,2025-03-07,activo
+13,David Martinez,1,4,Cartagena,cliente13@gmail.com,325918715,2025-02-12,activo
+14,Andrea Rojas,1,5,Cali,cliente14@gmail.com,324226067,2024-09-10,activo
+15,Consultora Vertex #9,3,5,Bogota,cliente15@empresa.com.co,304823498,2026-05-12,activo
+16,Colegio Britanico #11,2,4,Bogota,cliente16@empresa.com.co,302694522,2024-06-04,activo
+17,Seguros Bolivar Ltda #36,3,3,Barranquilla,cliente17@empresa.com.co,317120868,2025-11-07,activo
+18,Gimnasio Campestre #48,2,4,Bogota,cliente18@empresa.com.co,314514944,2025-02-14,activo
+19,Mateo Martinez,1,5,Pereira,cliente19@gmail.com,323871230,2025-08-23,activo
+20,Catalina Torres,1,5,Bogota,cliente20@gmail.com,308755439,2025-01-10,activo
+21,David Vargas,1,4,Bucaramanga,cliente21@gmail.com,324684531,2025-09-03,activo
+22,Totto Santafe #27,4,5,Medellin,cliente22@empresa.com.co,304842788,2024-08-26,activo
+23,Colegio San Jose #41,2,4,Bucaramanga,cliente23@empresa.com.co,315491946,2025-07-10,activo
+24,Liceo Moderno #28,2,5,Medellin,cliente24@empresa.com.co,326279418,2025-06-12,activo
+25,Sebastian Jimenez,1,4,Bogota,cliente25@gmail.com,318698256,2024-08-17,activo
+26,Santiago Vargas,1,4,Barranquilla,cliente26@gmail.com,305137722,2025-01-13,activo
+27,Catalina Pena,1,4,Manizales,cliente27@gmail.com,318187926,2024-11-27,activo
+28,Nicolas Ortiz,1,5,Bucaramanga,cliente28@gmail.com,314679591,2024-11-12,activo
+29,Santiago Mendoza,1,5,Bogota,cliente29@gmail.com,312525206,2024-09-25,activo
+30,Totto C.C. Andino #28,4,5,Cartagena,cliente30@empresa.com.co,303564251,2025-08-31,activo
+31,Consultora Vertex #21,3,5,Cartagena,cliente31@empresa.com.co,328082668,2024-10-13,activo
+32,Totto Chipichape #3,4,5,Cali,cliente32@empresa.com.co,317402509,2026-01-03,activo
+33,Totto Chipichape #15,4,5,Bogota,cliente33@empresa.com.co,325218028,2024-08-19,activo
+34,Catalina Gomez,1,5,Medellin,cliente34@gmail.com,322921859,2026-01-10,activo
+35,Consultora Vertex #69,3,5,Bogota,cliente35@empresa.com.co,316707197,2025-06-03,activo
+36,Valentina Morales,1,5,Bogota,cliente36@gmail.com,313653446,2024-08-26,activo
+37,Carlos Gomez,1,4,Cucuta,cliente37@gmail.com,325418934,2025-01-19,activo
+38,Diego Hernandez,1,4,Barranquilla,cliente38@gmail.com,322785277,2025-02-17,activo
+39,Distrimax SAS #33,5,5,Ibague,cliente39@empresa.com.co,324337174,2024-11-29,activo
+40,Santiago Rojas,1,4,Bogota,cliente40@gmail.com,309897858,2024-12-23,activo
+41,Andres Rivera,1,5,Cali,cliente41@gmail.com,319197443,2025-05-28,activo
+42,Andres Lopez,1,4,Bogota,cliente42@gmail.com,316159230,2026-03-16,activo
+43,Daniela Rodriguez,1,1,Bogota,cliente43@gmail.com,302321324,2025-05-19,inactivo
+44,Almacenes Exito #32,5,5,Bogota,cliente44@empresa.com.co,309937326,2025-09-27,activo
+45,Gimnasio Campestre #17,2,4,Bogota,cliente45@empresa.com.co,328973915,2025-11-07,activo
+46,Catalina Hernandez,1,1,Barranquilla,cliente46@gmail.com,319852897,2025-08-31,inactivo
+47,Andrea Suarez,1,5,Bogota,cliente47@gmail.com,304374754,2026-01-23,activo
+48,Sofia Ortiz,1,4,Bogota,cliente48@gmail.com,327264956,2024-06-30,activo
+49,Carlos Mendoza,1,3,Barranquilla,cliente49@gmail.com,313030113,2024-06-12,activo
+50,Daniela Torres,1,5,Bogota,cliente50@gmail.com,306672134,2025-09-08,activo
+51,Andres Cortes,1,5,Barranquilla,cliente51@gmail.com,324860684,2025-03-06,activo
+52,Tiendas Multimarca SA #15,5,4,Bogota,cliente52@empresa.com.co,302191066,2025-02-01,activo
+53,Camila Torres,1,2,Cucuta,cliente53@gmail.com,301527021,2026-02-22,inactivo
+54,Felipe Martinez,1,4,Barranquilla,cliente54@gmail.com,324993055,2026-01-10,activo
+55,Mateo Jimenez,1,5,Cali,cliente55@gmail.com,303219824,2024-11-22,activo
+56,Nicolas Cortes,1,5,Manizales,cliente56@gmail.com,315076817,2026-03-11,activo
+57,Natalia Suarez,1,4,Medellin,cliente57@gmail.com,302582524,2025-02-07,activo
+58,Liceo Moderno #85,2,5,Manizales,cliente58@empresa.com.co,316944126,2026-03-01,activo
+59,Colegio Los Andes #53,2,4,Barranquilla,cliente59@empresa.com.co,311908841,2024-07-31,activo
+60,Valentina Rodriguez,1,4,Manizales,cliente60@gmail.com,316692553,2025-08-11,activo
+61,Valentina Torres,1,3,Bogota,cliente61@gmail.com,304191175,2025-09-21,activo
+62,Catalina Gutierrez,1,4,Bogota,cliente62@gmail.com,308077999,2025-07-01,activo
+63,Laura Vargas,1,3,Barranquilla,cliente63@gmail.com,315191056,2024-11-09,activo
+64,Liceo Moderno #57,2,3,Bogota,cliente64@empresa.com.co,322642635,2025-01-21,activo
+65,Colegio San Jose #84,2,4,Barranquilla,cliente65@empresa.com.co,321247595,2026-02-02,activo
+66,Juan Torres,1,5,Cali,cliente66@gmail.com,307818496,2024-08-07,activo
+67,Natalia Jimenez,1,3,Bogota,cliente67@gmail.com,307728339,2024-11-23,activo
+68,Almacenes Exito #11,5,5,Medellin,cliente68@empresa.com.co,311036161,2026-03-05,activo
+69,David Vargas,1,5,Cartagena,cliente69@gmail.com,315785687,2025-05-28,activo
+70,Paula Pena,1,3,Medellin,cliente70@gmail.com,329164991,2024-10-19,activo
+71,Gimnasio Campestre #25,2,5,Bogota,cliente71@empresa.com.co,314652414,2024-06-18,activo
+72,Camila Cortes,1,4,Bogota,cliente72@gmail.com,322022698,2026-04-09,activo
+73,Distrimax SAS #4,5,5,Manizales,cliente73@empresa.com.co,308999183,2025-02-22,activo
+74,Diego Mendoza,1,3,Cucuta,cliente74@gmail.com,301954280,2025-04-05,activo
+75,Tiendas Multimarca SA #6,5,5,Ibague,cliente75@empresa.com.co,302149597,2026-02-05,activo
+76,Andrea Martinez,1,5,Medellin,cliente76@gmail.com,324946066,2026-02-03,activo
+77,David Lopez,1,3,Bogota,cliente77@gmail.com,325130808,2025-07-06,activo
+78,Tiendas Multimarca SA #39,5,5,Barranquilla,cliente78@empresa.com.co,302375453,2025-07-16,activo
+79,Paula Cortes,1,4,Cali,cliente79@gmail.com,329770838,2026-05-14,activo
+80,Felipe Vargas,1,5,Cali,cliente80@gmail.com,306271130,2026-02-22,activo
+81,Universidad Central #34,2,4,Barranquilla,cliente81@empresa.com.co,313195773,2025-10-19,activo
+82,Sofia Gutierrez,1,5,Bogota,cliente82@gmail.com,312217071,2026-01-04,activo
+83,Soluciones TI SAS #59,3,5,Pereira,cliente83@empresa.com.co,322677407,2026-03-20,activo
+84,Juan Pena,1,5,Cali,cliente84@gmail.com,309487336,2025-12-27,activo
+85,Mateo Garcia,1,5,Barranquilla,cliente85@gmail.com,312154126,2025-12-25,activo
+86,Totto Unicentro #12,4,5,Medellin,cliente86@empresa.com.co,313646552,2025-02-26,activo
+87,Carlos Pena,1,5,Cali,cliente87@gmail.com,326075395,2024-06-26,activo
+88,Andrea Mendoza,1,1,Cali,cliente88@gmail.com,306022741,2024-12-24,inactivo
+89,Valentina Garcia,1,2,Bogota,cliente89@gmail.com,312936571,2024-06-27,inactivo
+90,Soluciones TI SAS #96,3,3,Medellin,cliente90@empresa.com.co,323607983,2024-08-31,activo
+91,Mateo Morales,1,2,Bucaramanga,cliente91@gmail.com,324533779,2024-11-03,activo
+92,Felipe Ramirez,1,5,Bogota,cliente92@gmail.com,325428914,2024-07-08,activo
+93,Diego Jimenez,1,4,Cali,cliente93@gmail.com,311852264,2025-09-02,activo
+94,Liceo Moderno #82,2,3,Ibague,cliente94@empresa.com.co,315641923,2025-06-07,activo
+95,Camila Gomez,1,4,Cartagena,cliente95@gmail.com,313194789,2024-12-12,activo
+96,Mateo Hernandez,1,5,Bogota,cliente96@gmail.com,328412769,2024-06-19,activo
+97,Tiendas Multimarca SA #28,5,4,Pereira,cliente97@empresa.com.co,321162230,2025-10-15,activo
+98,Valentina Martinez,1,3,Bogota,cliente98@gmail.com,323500715,2024-09-21,activo
+99,Catalina Rodriguez,1,1,Cali,cliente99@gmail.com,313484601,2025-10-28,inactivo
+100,Paula Garcia,1,5,Bogota,cliente100@gmail.com,306171716,2026-04-19,activo
+101,Institucion Educativa Nacional #6,2,4,Cali,cliente101@empresa.com.co,314524499,2025-08-15,activo
+102,Daniela Lopez,1,4,Bogota,cliente102@gmail.com,317817881,2025-02-12,activo
+103,Gimnasio Campestre #31,2,4,Bogota,cliente103@empresa.com.co,303970445,2024-08-23,activo
+104,Paula Gomez,1,5,Bogota,cliente104@gmail.com,306573147,2026-02-06,activo
+105,Colegio Los Andes #86,2,3,Medellin,cliente105@empresa.com.co,325163555,2024-08-10,activo
+106,Mateo Hernandez,1,5,Medellin,cliente106@gmail.com,322813543,2024-10-03,activo
+107,David Rodriguez,1,5,Medellin,cliente107@gmail.com,314731818,2025-08-18,activo
+108,Sebastian Gutierrez,1,5,Bogota,cliente108@gmail.com,316120253,2025-02-25,activo
+109,Daniela Torres,1,3,Cali,cliente109@gmail.com,304240180,2026-02-07,activo
+110,David Castro,1,3,Bogota,cliente110@gmail.com,312164686,2024-07-21,activo
+111,Mateo Rojas,1,5,Bogota,cliente111@gmail.com,329546409,2025-07-27,activo
+112,Comercializadora La 70 #35,5,5,Cali,cliente112@empresa.com.co,311463060,2025-03-07,activo
+113,Valentina Vargas,1,1,Medellin,cliente113@gmail.com,305453786,2025-06-28,inactivo
+114,Almacenes Exito #7,5,5,Medellin,cliente114@empresa.com.co,328290770,2026-04-24,activo
+115,Totto Santafe #24,4,5,Bogota,cliente115@empresa.com.co,318321474,2024-07-20,activo
+116,Andrea Mendoza,1,5,Bogota,cliente116@gmail.com,307462506,2024-08-07,activo
+117,Nicolas Ramirez,1,3,Bogota,cliente117@gmail.com,311744682,2025-01-16,activo
+118,Consultora Vertex #56,3,5,Bogota,cliente118@empresa.com.co,309722815,2026-01-08,activo
+119,Catalina Ramirez,1,5,Bogota,cliente119@gmail.com,318235969,2025-10-15,activo
+120,Juan Castro,1,4,Pereira,cliente120@gmail.com,326266630,2025-11-12,activo
+121,Consultora Vertex #16,3,5,Bogota,cliente121@empresa.com.co,326038571,2024-10-06,activo
+122,Colegio Britanico #86,2,4,Cartagena,cliente122@empresa.com.co,316472441,2026-05-15,activo
+123,David Morales,1,5,Medellin,cliente123@gmail.com,323135534,2025-12-12,activo
+124,Sebastian Suarez,1,5,Cucuta,cliente124@gmail.com,327361002,2026-02-09,activo
+125,Laura Rivera,1,5,Bucaramanga,cliente125@gmail.com,326049101,2025-11-26,activo
+126,David Pena,1,4,Manizales,cliente126@gmail.com,306098175,2025-05-30,activo
+127,Constructora del Valle #27,3,5,Medellin,cliente127@empresa.com.co,316406444,2026-03-07,activo
+128,Carlos Gutierrez,1,5,Bogota,cliente128@gmail.com,314585314,2026-03-14,activo
+129,Diego Jimenez,1,3,Bogota,cliente129@gmail.com,323846949,2026-04-16,activo
+130,Almacenes Exito #19,5,5,Cali,cliente130@empresa.com.co,326623525,2025-08-29,activo
+131,Juan Torres,1,4,Bogota,cliente131@gmail.com,326207974,2025-01-23,activo
+132,Daniela Ramirez,1,5,Bucaramanga,cliente132@gmail.com,301409790,2025-12-22,activo
+133,Colegio San Jose #32,2,4,Bogota,cliente133@empresa.com.co,312221854,2025-05-22,activo
+134,Carlos Suarez,1,5,Cali,cliente134@gmail.com,324262081,2025-04-14,activo
+135,Totto El Tesoro #16,4,5,Medellin,cliente135@empresa.com.co,315093379,2024-08-24,activo
+136,Santiago Gomez,1,3,Bucaramanga,cliente136@gmail.com,308132769,2025-08-20,activo
+137,Daniela Hernandez,1,4,Bogota,cliente137@gmail.com,329689889,2025-10-18,activo
+138,Carlos Rodriguez,1,3,Cartagena,cliente138@gmail.com,325180853,2025-10-22,activo
+139,Valentina Gutierrez,1,1,Bogota,cliente139@gmail.com,308795419,2026-05-12,activo
+140,Diego Pena,1,5,Medellin,cliente140@gmail.com,326323376,2026-01-07,activo
+141,Comercializadora La 70 #40,5,5,Ibague,cliente141@empresa.com.co,329468772,2025-11-25,activo
+142,Paula Pena,1,4,Bogota,cliente142@gmail.com,313670226,2025-12-12,activo
+143,Natalia Gutierrez,1,5,Medellin,cliente143@gmail.com,315147994,2026-03-15,activo
+144,Mateo Mendoza,1,5,Medellin,cliente144@gmail.com,315013879,2024-06-09,activo
+145,Mateo Gutierrez,1,3,Bogota,cliente145@gmail.com,305793722,2024-08-25,activo
+146,Daniela Vargas,1,4,Barranquilla,cliente146@gmail.com,316363836,2025-11-20,activo
+147,Catalina Martinez,1,4,Ibague,cliente147@gmail.com,303530518,2025-02-25,activo
+148,Daniela Ortiz,1,2,Pereira,cliente148@gmail.com,323563646,2024-11-08,inactivo
+149,Falabella #5,5,5,Bogota,cliente149@empresa.com.co,317838382,2026-04-30,activo
+150,Felipe Pena,1,1,Manizales,cliente150@gmail.com,317975534,2025-06-15,activo
+151,Almacenes Exito #14,5,4,Bogota,cliente151@empresa.com.co,317534336,2025-07-04,activo
+152,Tiendas Multimarca SA #2,5,5,Cali,cliente152@empresa.com.co,327381734,2025-08-28,activo
+153,Natalia Gomez,1,5,Medellin,cliente153@gmail.com,316009888,2025-08-26,activo
+154,David Suarez,1,4,Manizales,cliente154@gmail.com,324700025,2024-07-03,activo
+155,Natalia Torres,1,5,Cucuta,cliente155@gmail.com,318312114,2026-03-03,activo
+156,Natalia Gomez,1,1,Barranquilla,cliente156@gmail.com,316639317,2024-12-17,activo
+157,David Hernandez,1,5,Medellin,cliente157@gmail.com,313141239,2025-02-10,activo
+158,Andrea Pena,1,4,Bogota,cliente158@gmail.com,307610562,2026-05-03,activo
+159,Tiendas Multimarca SA #37,5,5,Barranquilla,cliente159@empresa.com.co,321454696,2025-06-21,activo
+160,Juan Suarez,1,4,Cartagena,cliente160@gmail.com,308746014,2025-10-07,activo
+161,Laura Rodriguez,1,1,Manizales,cliente161@gmail.com,317360307,2026-01-14,activo
+162,Distrimax SAS #14,5,5,Bucaramanga,cliente162@empresa.com.co,316483562,2025-08-16,activo
+163,Felipe Ortiz,1,4,Cucuta,cliente163@gmail.com,318072684,2026-02-14,activo
+164,Mateo Martinez,1,5,Bogota,cliente164@gmail.com,311325197,2025-02-27,activo
+165,Consultora Vertex #70,3,4,Ibague,cliente165@empresa.com.co,306871360,2024-09-17,activo
+166,Daniela Martinez,1,5,Medellin,cliente166@gmail.com,321675419,2026-04-30,activo
+167,Importadora Global #4,3,5,Pereira,cliente167@empresa.com.co,304344717,2025-05-04,activo
+168,Andres Rivera,1,5,Bogota,cliente168@gmail.com,305002120,2024-07-11,activo
+169,Logistica Andina #61,3,5,Cartagena,cliente169@empresa.com.co,322919136,2026-05-21,activo
+170,Tiendas Multimarca SA #14,5,5,Cali,cliente170@empresa.com.co,315299055,2025-12-06,activo
+171,Distrimax SAS #11,5,5,Pereira,cliente171@empresa.com.co,322921542,2024-11-26,activo
+172,Laura Morales,1,3,Bogota,cliente172@gmail.com,301430812,2026-04-18,activo
+173,Sofia Cortes,1,4,Bogota,cliente173@gmail.com,327296605,2025-09-27,activo
+174,David Ramirez,1,2,Medellin,cliente174@gmail.com,305074336,2024-08-21,inactivo
+175,Valentina Morales,1,3,Cali,cliente175@gmail.com,323030966,2025-12-09,activo
+176,Nicolas Rodriguez,1,1,Pereira,cliente176@gmail.com,319937982,2025-07-03,activo
+177,Paula Rojas,1,5,Pereira,cliente177@gmail.com,309488613,2025-03-18,activo
+178,Felipe Gomez,1,5,Bogota,cliente178@gmail.com,319224219,2025-11-26,activo
+179,Valentina Suarez,1,1,Barranquilla,cliente179@gmail.com,318713146,2024-11-01,activo
+180,Santiago Suarez,1,4,Bogota,cliente180@gmail.com,309753457,2025-02-08,activo
+181,Mateo Rivera,1,5,Medellin,cliente181@gmail.com,329111742,2025-04-11,activo
+182,Totto El Tesoro #14,4,5,Medellin,cliente182@empresa.com.co,325502929,2025-06-06,activo
+183,Institucion Educativa Nacional #32,2,3,Medellin,cliente183@empresa.com.co,305679639,2025-08-22,activo
+184,Seguros Bolivar Ltda #32,3,3,Cucuta,cliente184@empresa.com.co,317358385,2024-09-14,activo
+185,Totto Santafe #1,4,5,Medellin,cliente185@empresa.com.co,316452832,2024-12-03,activo
+186,Laura Jimenez,1,5,Ibague,cliente186@gmail.com,306952975,2025-05-21,activo
+187,Mateo Castro,1,3,Barranquilla,cliente187@gmail.com,315635017,2024-11-20,activo
+188,Catalina Gomez,1,4,Bogota,cliente188@gmail.com,324205394,2024-09-01,activo
+189,Juan Torres,1,5,Bogota,cliente189@gmail.com,327818732,2025-09-05,activo
+190,Natalia Pena,1,4,Medellin,cliente190@gmail.com,308987516,2026-03-08,activo
+191,Natalia Gutierrez,1,1,Barranquilla,cliente191@gmail.com,302561176,2024-10-03,activo
+192,Sofia Torres,1,4,Bogota,cliente192@gmail.com,315081983,2024-09-30,activo
+193,Sofia Cortes,1,3,Bogota,cliente193@gmail.com,318939993,2024-08-03,activo
+194,Catalina Mendoza,1,4,Medellin,cliente194@gmail.com,318138769,2024-10-27,activo
+195,Catalina Castro,1,3,Cali,cliente195@gmail.com,318612582,2025-10-11,activo
+196,Mateo Morales,1,4,Cartagena,cliente196@gmail.com,314867786,2025-08-27,activo
+197,Valentina Ramirez,1,5,Pereira,cliente197@gmail.com,313005795,2026-03-26,activo
+198,Catalina Hernandez,1,4,Bogota,cliente198@gmail.com,304630331,2026-01-02,activo
+199,Universidad del Norte #36,2,3,Bogota,cliente199@empresa.com.co,329801946,2024-10-29,activo
+200,Andrea Morales,1,4,Medellin,cliente200@gmail.com,304256752,2025-08-20,activo
+201,Sofia Torres,1,1,Medellin,cliente201@gmail.com,314010529,2025-11-21,inactivo
+202,Sofia Gomez,1,4,Bogota,cliente202@gmail.com,329961299,2025-10-27,activo
+203,Totto Unicentro #9,4,5,Cali,cliente203@empresa.com.co,301914794,2025-06-19,activo
+204,Catalina Morales,1,1,Medellin,cliente204@gmail.com,323118618,2025-06-19,inactivo
+205,Natalia Lopez,1,5,Bogota,cliente205@gmail.com,305770422,2025-02-27,activo
+206,Natalia Jimenez,1,4,Medellin,cliente206@gmail.com,316716097,2024-10-31,activo
+207,Laura Rodriguez,1,5,Bogota,cliente207@gmail.com,319014965,2026-03-04,activo
+208,Valentina Martinez,1,2,Barranquilla,cliente208@gmail.com,319250138,2025-12-21,inactivo
+209,Juan Cortes,1,4,Bogota,cliente209@gmail.com,321899411,2025-06-22,activo
+210,Santiago Garcia,1,5,Bucaramanga,cliente210@gmail.com,326097514,2025-04-07,activo
+211,Juan Torres,1,5,Bogota,cliente211@gmail.com,307982241,2025-02-17,activo
+212,Andrea Rivera,1,1,Cali,cliente212@gmail.com,324786401,2025-02-12,inactivo
+213,Tiendas Multimarca SA #25,5,5,Cali,cliente213@empresa.com.co,318427625,2024-11-18,activo
+214,Sofia Cortes,1,5,Bogota,cliente214@gmail.com,316123430,2024-11-25,activo
+215,Nicolas Rivera,1,4,Bogota,cliente215@gmail.com,302664863,2024-12-23,activo
+216,Sebastian Ramirez,1,4,Manizales,cliente216@gmail.com,312362099,2024-07-28,activo
+217,Laura Torres,1,3,Medellin,cliente217@gmail.com,302259379,2026-05-09,activo
+218,Laura Gomez,1,4,Medellin,cliente218@gmail.com,318558197,2026-04-30,activo
+219,Consultora Vertex #77,3,5,Cartagena,cliente219@empresa.com.co,315886520,2024-12-03,activo
+220,Camila Torres,1,5,Barranquilla,cliente220@gmail.com,315743227,2026-04-01,activo
+221,Carlos Martinez,1,4,Cali,cliente221@gmail.com,324916201,2024-12-19,activo
+222,Colegio Britanico #81,2,4,Bogota,cliente222@empresa.com.co,324318855,2025-01-20,activo
+223,Paula Lopez,1,1,Cali,cliente223@gmail.com,324771676,2024-11-22,activo
+224,Santiago Vargas,1,5,Cali,cliente224@gmail.com,302198058,2024-12-25,activo
+225,Camila Hernandez,1,4,Bogota,cliente225@gmail.com,315842082,2025-05-13,activo
+226,Carlos Lopez,1,4,Bogota,cliente226@gmail.com,316101803,2025-01-29,activo
+227,David Vargas,1,5,Bogota,cliente227@gmail.com,329284509,2026-05-14,activo
+228,Carlos Martinez,1,5,Cartagena,cliente228@gmail.com,321668752,2024-12-01,activo
+229,Paula Castro,1,4,Bucaramanga,cliente229@gmail.com,325200476,2025-08-03,activo
+230,Andres Martinez,1,5,Medellin,cliente230@gmail.com,301348050,2025-02-07,activo
+231,Totto Santafe #19,4,5,Pereira,cliente231@empresa.com.co,303939212,2026-04-26,activo
+232,Natalia Mendoza,1,2,Bucaramanga,cliente232@gmail.com,328419378,2026-04-07,activo
+233,Mateo Hernandez,1,4,Bogota,cliente233@gmail.com,328312936,2025-11-16,activo
+234,Natalia Martinez,1,4,Pereira,cliente234@gmail.com,316837817,2024-09-09,activo
+235,Colegio Los Andes #43,2,4,Bogota,cliente235@empresa.com.co,312754894,2024-09-26,activo
+236,Laura Castro,1,4,Cartagena,cliente236@gmail.com,319312590,2025-09-22,activo
+237,Sofia Ortiz,1,4,Medellin,cliente237@gmail.com,321615675,2026-02-22,activo
+238,Carlos Martinez,1,5,Cartagena,cliente238@gmail.com,315234550,2025-04-13,activo
+239,Felipe Lopez,1,4,Medellin,cliente239@gmail.com,319633492,2025-01-03,activo
+240,Colegio San Jose #85,2,5,Cali,cliente240@empresa.com.co,328750676,2024-11-15,activo
+241,Totto El Tesoro #2,4,5,Medellin,cliente241@empresa.com.co,309697969,2025-06-27,activo
+242,Totto Santafe #20,4,5,Barranquilla,cliente242@empresa.com.co,318416216,2024-08-24,activo
+243,Almacenes Exito #14,5,5,Barranquilla,cliente243@empresa.com.co,313198037,2025-01-28,activo
+244,Sofia Gutierrez,1,4,Cartagena,cliente244@gmail.com,329132114,2025-08-21,activo
+245,Valentina Gomez,1,5,Manizales,cliente245@gmail.com,325014745,2025-12-20,activo
+246,Laura Morales,1,3,Bogota,cliente246@gmail.com,321229419,2024-11-26,activo
+247,Colegio Los Andes #12,2,4,Bogota,cliente247@empresa.com.co,302903561,2025-07-16,activo
+248,Universidad del Norte #16,2,4,Pereira,cliente248@empresa.com.co,323583206,2025-02-02,activo
+249,Seguros Bolivar Ltda #92,3,4,Bogota,cliente249@empresa.com.co,319537455,2026-01-31,activo
+250,Mateo Suarez,1,1,Medellin,cliente250@gmail.com,318922533,2025-12-27,inactivo
+251,Daniela Gutierrez,1,4,Bogota,cliente251@gmail.com,323426689,2025-11-03,activo
+252,Colegio Los Andes #25,2,3,Barranquilla,cliente252@empresa.com.co,329526867,2025-10-13,activo
+253,Santiago Martinez,1,3,Bogota,cliente253@gmail.com,317961578,2025-02-04,activo
+254,Felipe Mendoza,1,3,Manizales,cliente254@gmail.com,311043037,2025-07-26,activo
+255,Sofia Morales,1,4,Medellin,cliente255@gmail.com,329214801,2026-04-14,activo
+256,Santiago Gutierrez,1,3,Cali,cliente256@gmail.com,329125900,2025-05-31,activo
+257,Mariana Castro,1,5,Bogota,cliente257@gmail.com,327328534,2026-02-18,activo
+258,Comercializadora La 70 #21,5,5,Cali,cliente258@empresa.com.co,305006492,2025-10-15,activo
+259,Totto Chipichape #13,4,5,Barranquilla,cliente259@empresa.com.co,307891662,2024-09-18,activo
+260,Camila Castro,1,4,Cali,cliente260@gmail.com,328935224,2025-04-02,activo
+261,Colegio Los Andes #50,2,4,Cucuta,cliente261@empresa.com.co,323551903,2026-03-29,activo
+262,Natalia Rodriguez,1,5,Bogota,cliente262@gmail.com,309427047,2026-05-11,activo
+263,Grupo Empresarial Sur #43,3,4,Bogota,cliente263@empresa.com.co,308387112,2026-03-26,activo
+264,Soluciones TI SAS #68,3,3,Cali,cliente264@empresa.com.co,311257489,2025-07-31,activo
+265,Santiago Suarez,1,5,Bogota,cliente265@gmail.com,323589751,2025-01-28,activo
+266,Soluciones TI SAS #61,3,5,Bogota,cliente266@empresa.com.co,316680114,2025-01-27,activo
+267,Andrea Ortiz,1,3,Cali,cliente267@gmail.com,322347467,2026-03-25,activo
+268,Felipe Pena,1,3,Medellin,cliente268@gmail.com,316312692,2025-11-14,activo
+269,Natalia Pena,1,4,Bogota,cliente269@gmail.com,302147909,2025-04-22,activo
+270,Daniela Morales,1,4,Bogota,cliente270@gmail.com,302516313,2025-05-25,activo
+271,Paula Lopez,1,4,Manizales,cliente271@gmail.com,322686231,2025-02-16,activo
+272,Carlos Hernandez,1,3,Barranquilla,cliente272@gmail.com,326024207,2024-06-10,activo
+273,Andres Rodriguez,1,5,Bogota,cliente273@gmail.com,311941524,2026-04-23,activo
+274,Sofia Rojas,1,2,Medellin,cliente274@gmail.com,318225725,2024-08-01,activo
+275,Falabella #16,5,5,Cali,cliente275@empresa.com.co,327913081,2025-08-03,activo
+276,Nicolas Hernandez,1,5,Bucaramanga,cliente276@gmail.com,303937176,2024-10-30,activo
+277,Totto C.C. Andino #20,4,5,Bogota,cliente277@empresa.com.co,315040453,2024-10-16,activo
+278,Natalia Cortes,1,4,Medellin,cliente278@gmail.com,304895475,2025-07-12,activo
+279,Carlos Vargas,1,5,Cartagena,cliente279@gmail.com,315283671,2025-04-23,activo
+280,Andres Gutierrez,1,2,Medellin,cliente280@gmail.com,313650391,2025-03-16,activo
+281,Juan Gutierrez,1,5,Bogota,cliente281@gmail.com,316018975,2024-10-09,activo
+282,Consultora Vertex #55,3,4,Cucuta,cliente282@empresa.com.co,325195951,2025-02-24,activo
+283,Carlos Morales,1,5,Barranquilla,cliente283@gmail.com,307454081,2025-03-22,activo
+284,Natalia Lopez,1,4,Bogota,cliente284@gmail.com,307398231,2025-10-29,activo
+285,Nicolas Rojas,1,3,Bogota,cliente285@gmail.com,325963914,2024-11-07,activo
+286,Sofia Gomez,1,4,Barranquilla,cliente286@gmail.com,327640518,2024-06-15,activo
+287,Mateo Gomez,1,4,Cartagena,cliente287@gmail.com,321822825,2024-10-07,activo
+288,Andrea Jimenez,1,5,Bogota,cliente288@gmail.com,314860745,2024-08-11,activo
+289,Andrea Rojas,1,3,Bucaramanga,cliente289@gmail.com,304189885,2026-02-07,activo
+290,Grupo Empresarial Sur #33,3,5,Medellin,cliente290@empresa.com.co,323294774,2025-09-25,activo
+291,Valentina Rodriguez,1,5,Bogota,cliente291@gmail.com,318395785,2026-03-08,activo
+292,Camila Cortes,1,5,Bogota,cliente292@gmail.com,313204724,2024-10-28,activo
+293,Juan Morales,1,4,Bogota,cliente293@gmail.com,317970985,2025-07-25,activo
+294,Laura Ramirez,1,5,Manizales,cliente294@gmail.com,307138070,2026-01-10,activo
+295,Diego Mendoza,1,4,Bogota,cliente295@gmail.com,313760597,2025-03-01,activo
+296,Mateo Jimenez,1,3,Bogota,cliente296@gmail.com,316682698,2025-08-24,activo
+297,Valentina Gutierrez,1,5,Cali,cliente297@gmail.com,303361510,2025-04-11,activo
+298,Daniela Ortiz,1,5,Cucuta,cliente298@gmail.com,327136687,2025-12-02,activo
+299,Juan Ortiz,1,4,Pereira,cliente299@gmail.com,305436878,2025-05-17,activo
+300,Totto Chipichape #4,4,5,Cartagena,cliente300@empresa.com.co,317183841,2025-04-03,activo
+301,Mateo Cortes,1,5,Bogota,cliente301@gmail.com,317232293,2025-06-25,activo
+302,Valentina Torres,1,4,Bogota,cliente302@gmail.com,311419843,2024-09-09,activo
+303,Grupo Empresarial Sur #72,3,4,Ibague,cliente303@empresa.com.co,314713925,2025-06-14,activo
+304,Juan Gutierrez,1,5,Bogota,cliente304@gmail.com,326069909,2024-06-14,activo
+305,Totto El Tesoro #4,4,5,Bogota,cliente305@empresa.com.co,301760793,2025-07-21,activo
+306,Camila Morales,1,5,Cali,cliente306@gmail.com,312948178,2025-09-13,activo
+307,Soluciones TI SAS #31,3,4,Bogota,cliente307@empresa.com.co,323276065,2024-06-08,activo
+308,David Gutierrez,1,5,Manizales,cliente308@gmail.com,318031780,2026-02-20,activo
+309,Nicolas Garcia,1,4,Cali,cliente309@gmail.com,312661307,2025-09-22,activo
+310,Natalia Rivera,1,3,Manizales,cliente310@gmail.com,315693260,2025-03-29,activo
+311,Camila Rojas,1,2,Cali,cliente311@gmail.com,308438733,2024-07-04,inactivo
+312,Carlos Torres,1,3,Bucaramanga,cliente312@gmail.com,312666893,2024-07-30,activo
+313,Mariana Pena,1,2,Bogota,cliente313@gmail.com,327017548,2025-03-08,inactivo
+314,Camila Ortiz,1,5,Medellin,cliente314@gmail.com,314184459,2025-10-31,activo
+315,Valentina Gutierrez,1,2,Cali,cliente315@gmail.com,304558545,2025-05-09,inactivo
+316,Andrea Gomez,1,5,Cucuta,cliente316@gmail.com,306595355,2025-11-10,activo
+317,Daniela Garcia,1,5,Bogota,cliente317@gmail.com,324442778,2024-12-06,activo
+318,Juan Pena,1,4,Bogota,cliente318@gmail.com,304623062,2025-05-24,activo
+319,Daniela Castro,1,1,Medellin,cliente319@gmail.com,301047572,2025-12-08,inactivo
+320,Mateo Garcia,1,3,Bogota,cliente320@gmail.com,305205279,2025-11-07,activo
+321,Laura Lopez,1,5,Barranquilla,cliente321@gmail.com,321432519,2025-04-10,activo
+322,Santiago Gomez,1,5,Cartagena,cliente322@gmail.com,314991829,2025-12-28,activo
+323,Nicolas Castro,1,5,Bogota,cliente323@gmail.com,303923366,2025-07-30,activo
+324,Mateo Rodriguez,1,3,Bogota,cliente324@gmail.com,308062546,2026-03-23,activo
+325,Diego Lopez,1,5,Cucuta,cliente325@gmail.com,322066326,2025-04-18,activo
+326,Natalia Gutierrez,1,4,Cali,cliente326@gmail.com,319610704,2026-02-19,activo
+327,Liceo Moderno #58,2,3,Cartagena,cliente327@empresa.com.co,324716988,2025-09-18,activo
+328,Andrea Rodriguez,1,5,Pereira,cliente328@gmail.com,329748499,2024-11-27,activo
+329,Sofia Gutierrez,1,4,Bogota,cliente329@gmail.com,321522621,2026-05-13,activo
+330,Almacenes Exito #31,5,5,Bogota,cliente330@empresa.com.co,318151684,2025-10-22,activo
+331,Totto C.C. Andino #16,4,5,Bogota,cliente331@empresa.com.co,328441741,2025-07-14,activo
+332,Totto C.C. Andino #29,4,5,Bogota,cliente332@empresa.com.co,306404139,2025-10-16,activo
+333,Andrea Garcia,1,4,Cucuta,cliente333@gmail.com,303117143,2026-05-01,activo
+334,Distrimax SAS #40,5,5,Medellin,cliente334@empresa.com.co,326455706,2026-02-11,activo
+335,Seguros Bolivar Ltda #77,3,3,Bogota,cliente335@empresa.com.co,325947563,2026-01-18,activo
+336,Carlos Mendoza,1,4,Cali,cliente336@gmail.com,328217547,2024-11-13,activo
+337,Valentina Lopez,1,4,Bogota,cliente337@gmail.com,324607488,2025-10-15,activo
+338,Paula Gutierrez,1,5,Bucaramanga,cliente338@gmail.com,307942639,2024-07-18,activo
+339,Felipe Gutierrez,1,5,Cali,cliente339@gmail.com,317979148,2025-12-22,activo
+340,Valentina Castro,1,5,Barranquilla,cliente340@gmail.com,316243275,2026-02-28,activo
+341,Mateo Rojas,1,4,Bogota,cliente341@gmail.com,308956894,2024-06-18,activo
+342,Soluciones TI SAS #12,3,4,Bogota,cliente342@empresa.com.co,302564141,2026-02-20,activo
+343,Paula Lopez,1,4,Cucuta,cliente343@gmail.com,327251976,2025-12-28,activo
+344,Falabella #36,5,5,Medellin,cliente344@empresa.com.co,306530541,2025-12-05,activo
+345,Valentina Suarez,1,5,Medellin,cliente345@gmail.com,318095702,2025-08-26,activo
+346,Importadora Global #93,3,4,Ibague,cliente346@empresa.com.co,305825620,2025-12-06,activo
+347,Andrea Morales,1,3,Medellin,cliente347@gmail.com,312738129,2025-11-14,activo
+348,Nicolas Mendoza,1,3,Bogota,cliente348@gmail.com,303595941,2025-02-11,activo
+349,Natalia Torres,1,4,Bogota,cliente349@gmail.com,306873938,2024-11-16,activo
+350,Catalina Rojas,1,4,Bogota,cliente350@gmail.com,305673599,2026-05-13,activo
+351,Nicolas Torres,1,4,Medellin,cliente351@gmail.com,311440466,2025-10-03,activo
+352,Andrea Vargas,1,5,Cucuta,cliente352@gmail.com,304026879,2025-12-19,activo
+353,Mateo Morales,1,4,Medellin,cliente353@gmail.com,316889195,2026-02-23,activo
+354,Almacenes Exito #12,5,5,Medellin,cliente354@empresa.com.co,307724045,2025-08-16,activo
+355,Juan Garcia,1,4,Ibague,cliente355@gmail.com,321514340,2024-11-14,activo
+356,Almacenes Exito #34,5,5,Barranquilla,cliente356@empresa.com.co,307311494,2025-08-12,activo
+357,Paula Gutierrez,1,5,Bogota,cliente357@gmail.com,313640889,2024-10-06,activo
+358,Mariana Morales,1,3,Bogota,cliente358@gmail.com,326442241,2025-12-14,activo
+359,Nicolas Rivera,1,3,Bogota,cliente359@gmail.com,301882629,2026-04-29,activo
+360,Totto Unicentro #6,4,5,Cucuta,cliente360@empresa.com.co,321834876,2026-05-18,activo
+361,Juan Vargas,1,5,Medellin,cliente361@gmail.com,318113787,2025-11-28,activo
+362,Natalia Rivera,1,5,Bogota,cliente362@gmail.com,317948850,2026-01-09,activo
+363,Mateo Ramirez,1,4,Bogota,cliente363@gmail.com,322909540,2025-06-22,activo
+364,Mariana Suarez,1,5,Cali,cliente364@gmail.com,305752087,2024-08-05,activo
+365,Consultora Vertex #87,3,4,Bogota,cliente365@empresa.com.co,329164342,2024-09-02,activo
+366,Totto Chipichape #22,4,5,Cucuta,cliente366@empresa.com.co,311761976,2026-02-11,activo
+367,Logistica Andina #51,3,4,Barranquilla,cliente367@empresa.com.co,321919088,2025-07-02,activo
+368,Andres Ramirez,1,2,Medellin,cliente368@gmail.com,314543918,2025-02-24,activo
+369,Santiago Vargas,1,5,Bucaramanga,cliente369@gmail.com,316504979,2025-05-24,activo
+370,Valentina Gomez,1,1,Bogota,cliente370@gmail.com,318225192,2025-10-05,activo
+371,Laura Garcia,1,3,Pereira,cliente371@gmail.com,319935249,2025-05-23,activo
+372,Daniela Mendoza,1,4,Cali,cliente372@gmail.com,326941939,2026-01-15,activo
+373,Juan Ortiz,1,4,Barranquilla,cliente373@gmail.com,321709714,2025-07-13,activo
+374,Paula Gomez,1,5,Pereira,cliente374@gmail.com,312306317,2025-12-27,activo
+375,Felipe Cortes,1,3,Pereira,cliente375@gmail.com,317785090,2026-02-15,activo
+376,Colegio Los Andes #38,2,4,Pereira,cliente376@empresa.com.co,307795314,2025-10-16,activo
+377,Andres Castro,1,4,Cali,cliente377@gmail.com,308719145,2025-11-24,activo
+378,Mariana Martinez,1,5,Manizales,cliente378@gmail.com,312776088,2026-02-18,activo
+379,Daniela Suarez,1,5,Cartagena,cliente379@gmail.com,327718433,2024-09-01,activo
+380,Diego Martinez,1,4,Bucaramanga,cliente380@gmail.com,316205543,2024-09-24,activo
+381,Consultora Vertex #44,3,5,Pereira,cliente381@empresa.com.co,306587964,2025-06-01,activo
+382,Laura Martinez,1,5,Bogota,cliente382@gmail.com,322913049,2025-08-19,activo
+383,Tiendas Multimarca SA #33,5,5,Barranquilla,cliente383@empresa.com.co,306861544,2024-12-05,activo
+384,Mariana Garcia,1,4,Cali,cliente384@gmail.com,302724773,2025-12-14,activo
+385,Santiago Vargas,1,5,Bucaramanga,cliente385@gmail.com,303910830,2025-06-25,activo
+386,Tiendas Multimarca SA #10,5,5,Medellin,cliente386@empresa.com.co,322264218,2025-08-30,activo
+387,Falabella #32,5,5,Bogota,cliente387@empresa.com.co,318531380,2026-04-06,activo
+388,Nicolas Rivera,1,4,Bogota,cliente388@gmail.com,316303930,2025-01-03,activo
+389,Gimnasio Campestre #57,2,4,Bogota,cliente389@empresa.com.co,308867190,2025-07-25,activo
+390,Carlos Morales,1,5,Barranquilla,cliente390@gmail.com,311942411,2024-07-03,activo
+391,Constructora del Valle #65,3,5,Ibague,cliente391@empresa.com.co,306207779,2026-04-29,activo
+392,Universidad del Norte #58,2,3,Bogota,cliente392@empresa.com.co,301954456,2025-11-28,activo
+393,Mariana Morales,1,3,Bogota,cliente393@gmail.com,302514923,2025-01-19,activo
+394,Andrea Rivera,1,4,Cartagena,cliente394@gmail.com,327450545,2025-10-05,activo
+395,Carlos Cortes,1,4,Bogota,cliente395@gmail.com,321688246,2026-05-19,activo
+396,Carlos Cortes,1,5,Medellin,cliente396@gmail.com,324158134,2024-09-26,activo
+397,Institucion Educativa Nacional #78,2,5,Barranquilla,cliente397@empresa.com.co,319411547,2024-11-06,activo
+398,Santiago Rodriguez,1,5,Barranquilla,cliente398@gmail.com,312736473,2025-09-15,activo
+399,Felipe Martinez,1,1,Cucuta,cliente399@gmail.com,323895058,2024-09-17,inactivo
+400,Camila Torres,1,5,Cucuta,cliente400@gmail.com,328344365,2025-03-30,activo
+401,Carlos Mendoza,1,4,Medellin,cliente401@gmail.com,323663319,2024-12-15,activo
+402,Distrimax SAS #24,5,5,Medellin,cliente402@empresa.com.co,317499771,2026-03-06,activo
+403,Paula Castro,1,1,Bogota,cliente403@gmail.com,321878547,2024-06-23,activo
+404,Felipe Martinez,1,3,Medellin,cliente404@gmail.com,312585546,2026-02-13,activo
+405,Catalina Ortiz,1,1,Ibague,cliente405@gmail.com,315227787,2024-10-12,inactivo
+406,Consultora Vertex #85,3,5,Cartagena,cliente406@empresa.com.co,323522845,2025-12-08,activo
+407,Constructora del Valle #11,3,4,Bucaramanga,cliente407@empresa.com.co,323372774,2025-08-25,activo
+408,Mariana Morales,1,5,Bogota,cliente408@gmail.com,327575963,2026-03-26,activo
+409,Santiago Rivera,1,5,Cartagena,cliente409@gmail.com,322421349,2025-05-13,activo
+410,Sofia Pena,1,5,Bogota,cliente410@gmail.com,316510922,2025-10-07,activo
+411,Santiago Mendoza,1,3,Bogota,cliente411@gmail.com,308103580,2025-05-20,activo
+412,Diego Rojas,1,4,Cali,cliente412@gmail.com,307083379,2024-12-11,activo
+413,Colegio Britanico #24,2,4,Bogota,cliente413@empresa.com.co,306733317,2025-04-24,activo
+414,Natalia Ramirez,1,1,Bogota,cliente414@gmail.com,303307963,2025-03-10,activo
+415,Santiago Martinez,1,5,Cali,cliente415@gmail.com,312696860,2024-12-27,activo
+416,Diego Pena,1,4,Pereira,cliente416@gmail.com,329833734,2025-12-14,activo
+417,Camila Castro,1,4,Medellin,cliente417@gmail.com,323198638,2024-08-15,activo
+418,Andrea Ortiz,1,5,Ibague,cliente418@gmail.com,303722056,2024-09-11,activo
+419,Laura Rivera,1,5,Cali,cliente419@gmail.com,308342941,2025-10-19,activo
+420,Camila Suarez,1,3,Bogota,cliente420@gmail.com,314985095,2025-01-22,activo
+421,Carlos Rivera,1,1,Bogota,cliente421@gmail.com,318531761,2025-02-08,activo
+422,Daniela Pena,1,3,Bogota,cliente422@gmail.com,306192009,2025-03-13,activo
+423,Natalia Ramirez,1,5,Cali,cliente423@gmail.com,318391997,2025-10-10,activo
+424,Seguros Bolivar Ltda #99,3,5,Bogota,cliente424@empresa.com.co,317406756,2024-09-29,activo
+425,Diego Mendoza,1,1,Barranquilla,cliente425@gmail.com,313718884,2025-10-22,activo
+426,Sebastian Rivera,1,5,Cucuta,cliente426@gmail.com,305194357,2024-07-08,activo
+427,Camila Jimenez,1,2,Barranquilla,cliente427@gmail.com,312721170,2026-02-18,inactivo
+428,Liceo Moderno #37,2,4,Cartagena,cliente428@empresa.com.co,303689594,2025-01-31,activo
+429,Constructora del Valle #58,3,3,Bogota,cliente429@empresa.com.co,323472100,2026-03-07,activo
+430,Paula Martinez,1,5,Cartagena,cliente430@gmail.com,308568671,2025-04-22,activo
+431,Mariana Gomez,1,3,Cali,cliente431@gmail.com,311893502,2025-11-09,activo
+432,David Mendoza,1,2,Bogota,cliente432@gmail.com,314955699,2024-11-25,inactivo
+433,David Martinez,1,2,Pereira,cliente433@gmail.com,314767135,2024-11-05,inactivo
+434,Almacenes Exito #21,5,5,Medellin,cliente434@empresa.com.co,306625238,2024-10-10,activo
+435,Gimnasio Campestre #18,2,3,Barranquilla,cliente435@empresa.com.co,305813037,2025-05-25,activo
+436,Natalia Garcia,1,4,Bucaramanga,cliente436@gmail.com,328870361,2024-11-12,activo
+437,Comercializadora La 70 #40,5,5,Ibague,cliente437@empresa.com.co,302329187,2025-09-12,activo
+438,Andres Vargas,1,5,Barranquilla,cliente438@gmail.com,303508522,2024-07-22,activo
+439,Catalina Rivera,1,4,Bogota,cliente439@gmail.com,328101036,2025-04-30,activo
+440,Soluciones TI SAS #37,3,4,Bucaramanga,cliente440@empresa.com.co,306052478,2025-11-17,activo
+441,Valentina Rodriguez,1,3,Medellin,cliente441@gmail.com,308043503,2025-02-23,activo
+442,Tiendas Multimarca SA #30,5,5,Bogota,cliente442@empresa.com.co,302859886,2026-02-15,activo
+443,Natalia Rivera,1,4,Medellin,cliente443@gmail.com,321275739,2025-11-05,activo
+444,Diego Cortes,1,4,Pereira,cliente444@gmail.com,303408819,2026-03-11,activo
+445,Sofia Suarez,1,5,Bogota,cliente445@gmail.com,306919270,2025-08-01,activo
+446,Totto Unicentro #19,4,5,Bogota,cliente446@empresa.com.co,314142605,2025-08-23,activo
+447,Juan Mendoza,1,5,Bucaramanga,cliente447@gmail.com,312135470,2024-09-03,activo
+448,Colegio San Jose #50,2,4,Manizales,cliente448@empresa.com.co,311730386,2024-10-08,activo
+449,David Rojas,1,5,Ibague,cliente449@gmail.com,311272499,2024-10-09,activo
+450,Constructora del Valle #9,3,5,Medellin,cliente450@empresa.com.co,315045421,2024-11-26,activo
+451,Consultora Vertex #85,3,4,Medellin,cliente451@empresa.com.co,322739191,2025-06-06,activo
+452,Nicolas Castro,1,4,Cali,cliente452@gmail.com,301743829,2024-09-26,activo
+453,Mariana Pena,1,5,Ibague,cliente453@gmail.com,313937508,2024-12-03,activo
+454,Carlos Jimenez,1,3,Medellin,cliente454@gmail.com,324058117,2025-12-09,activo
+455,Santiago Martinez,1,4,Ibague,cliente455@gmail.com,328678589,2025-04-23,activo
+456,Camila Morales,1,5,Bogota,cliente456@gmail.com,301734947,2024-10-01,activo
+457,Sebastian Rodriguez,1,4,Medellin,cliente457@gmail.com,316202210,2026-01-18,activo
+458,Diego Ortiz,1,2,Bogota,cliente458@gmail.com,328942330,2025-08-19,activo
+459,Colegio Britanico #5,2,3,Bogota,cliente459@empresa.com.co,324206183,2024-09-29,activo
+460,Sofia Rojas,1,2,Bucaramanga,cliente460@gmail.com,306568772,2025-09-21,activo
+461,Mateo Lopez,1,4,Pereira,cliente461@gmail.com,318330827,2026-01-02,activo
+462,David Gutierrez,1,5,Pereira,cliente462@gmail.com,316688090,2024-10-27,activo
+463,Laura Jimenez,1,5,Bogota,cliente463@gmail.com,329347057,2024-07-12,activo
+464,Mariana Mendoza,1,5,Cucuta,cliente464@gmail.com,312385991,2024-06-29,activo
+465,Paula Martinez,1,3,Medellin,cliente465@gmail.com,314027557,2026-04-04,activo
+466,Catalina Morales,1,5,Cali,cliente466@gmail.com,312721307,2024-06-30,activo
+467,Juan Castro,1,5,Ibague,cliente467@gmail.com,325960015,2026-04-26,activo
+468,Sofia Gutierrez,1,1,Cucuta,cliente468@gmail.com,328149041,2025-09-04,inactivo
+469,Logistica Andina #89,3,5,Medellin,cliente469@empresa.com.co,316897979,2025-06-07,activo
+470,Carlos Rodriguez,1,2,Barranquilla,cliente470@gmail.com,326914963,2024-09-09,activo
+471,Andrea Suarez,1,4,Bogota,cliente471@gmail.com,311962308,2025-10-21,activo
+472,Juan Ortiz,1,3,Barranquilla,cliente472@gmail.com,319608154,2026-04-30,activo
+473,Laura Gomez,1,5,Barranquilla,cliente473@gmail.com,308351320,2025-04-16,activo
+474,Soluciones TI SAS #17,3,5,Bogota,cliente474@empresa.com.co,304959345,2025-10-12,activo
+475,Importadora Global #83,3,5,Cucuta,cliente475@empresa.com.co,317075878,2025-10-05,activo
+476,David Cortes,1,1,Cali,cliente476@gmail.com,303574265,2026-02-16,activo
+477,Carlos Rojas,1,3,Bogota,cliente477@gmail.com,318448065,2026-04-02,activo
+478,Juan Cortes,1,3,Barranquilla,cliente478@gmail.com,309882862,2024-11-03,activo
+479,Mariana Ortiz,1,5,Medellin,cliente479@gmail.com,315675638,2025-09-12,activo
+480,Daniela Lopez,1,4,Barranquilla,cliente480@gmail.com,304121368,2026-05-21,activo
+481,Natalia Mendoza,1,4,Ibague,cliente481@gmail.com,312975701,2025-03-20,activo
+482,Constructora del Valle #34,3,3,Cartagena,cliente482@empresa.com.co,328487220,2025-07-14,activo
+483,Universidad Central #79,2,4,Pereira,cliente483@empresa.com.co,319240971,2025-03-18,activo
+484,Sebastian Lopez,1,4,Barranquilla,cliente484@gmail.com,302242387,2026-01-03,activo
+485,Universidad del Norte #23,2,4,Cartagena,cliente485@empresa.com.co,328467726,2025-04-10,activo
+486,Soluciones TI SAS #88,3,4,Bogota,cliente486@empresa.com.co,316828829,2025-06-28,activo
+487,Juan Pena,1,3,Medellin,cliente487@gmail.com,325871470,2025-02-19,activo
+488,Sofia Hernandez,1,5,Barranquilla,cliente488@gmail.com,323920762,2025-03-07,activo
+489,Mariana Mendoza,1,5,Bogota,cliente489@gmail.com,303036124,2025-02-24,activo
+490,Sebastian Garcia,1,3,Bogota,cliente490@gmail.com,309288312,2025-08-09,activo
+491,Andres Rojas,1,2,Cali,cliente491@gmail.com,327189302,2025-04-30,inactivo
+492,Carlos Pena,1,5,Pereira,cliente492@gmail.com,302446455,2025-06-09,activo
+493,Juan Morales,1,3,Bogota,cliente493@gmail.com,319030667,2025-02-01,activo
+494,Diego Suarez,1,5,Medellin,cliente494@gmail.com,312237331,2025-07-23,activo
+495,Santiago Castro,1,3,Cali,cliente495@gmail.com,322244282,2025-12-03,activo
+496,Seguros Bolivar Ltda #60,3,4,Bucaramanga,cliente496@empresa.com.co,329679860,2026-04-19,activo
+497,Mariana Garcia,1,3,Bogota,cliente497@gmail.com,324052834,2024-06-06,activo
+498,Santiago Suarez,1,4,Manizales,cliente498@gmail.com,321929673,2024-11-23,activo
+499,Totto C.C. Andino #17,4,5,Bogota,cliente499@empresa.com.co,306102363,2026-04-04,activo
+500,Laura Hernandez,1,5,Bogota,cliente500@gmail.com,314782763,2025-05-16,activo
+501,Mariana Mendoza,1,1,Bogota,cliente501@gmail.com,312323049,2025-01-08,inactivo
+502,Constructora del Valle #26,3,5,Cali,cliente502@empresa.com.co,325604524,2025-01-11,activo
+503,Santiago Morales,1,2,Bucaramanga,cliente503@gmail.com,329950276,2024-12-14,activo
+504,Juan Mendoza,1,5,Bogota,cliente504@gmail.com,323829240,2024-10-09,activo
+505,Nicolas Cortes,1,3,Bogota,cliente505@gmail.com,303872269,2025-06-14,activo
+506,Institucion Educativa Nacional #73,2,5,Bogota,cliente506@empresa.com.co,301476028,2025-07-14,activo
+507,Juan Rodriguez,1,5,Ibague,cliente507@gmail.com,325440189,2025-05-15,activo
+508,Consultora Vertex #27,3,5,Cali,cliente508@empresa.com.co,327989166,2024-07-02,activo
+509,Andrea Gomez,1,4,Cucuta,cliente509@gmail.com,315859883,2025-08-08,activo
+510,Consultora Vertex #39,3,4,Manizales,cliente510@empresa.com.co,315108369,2024-11-12,activo
+511,David Morales,1,3,Cali,cliente511@gmail.com,312224284,2025-03-23,activo
+512,Consultora Vertex #8,3,4,Manizales,cliente512@empresa.com.co,308375356,2025-02-10,activo
+513,Paula Jimenez,1,5,Cartagena,cliente513@gmail.com,314422938,2024-12-15,activo
+514,Constructora del Valle #78,3,4,Medellin,cliente514@empresa.com.co,306244264,2025-09-24,activo
+515,Felipe Rojas,1,4,Barranquilla,cliente515@gmail.com,313193891,2025-04-22,activo
+516,Mariana Mendoza,1,5,Bogota,cliente516@gmail.com,322781470,2025-11-13,activo
+517,Constructora del Valle #31,3,3,Bogota,cliente517@empresa.com.co,313055576,2024-08-08,activo
+518,Mateo Gutierrez,1,5,Barranquilla,cliente518@gmail.com,303363534,2025-08-12,activo
+519,Valentina Rodriguez,1,5,Bogota,cliente519@gmail.com,317444964,2025-03-09,activo
+520,Andrea Suarez,1,4,Medellin,cliente520@gmail.com,303679315,2026-05-13,activo
+521,Felipe Cortes,1,1,Barranquilla,cliente521@gmail.com,326246485,2025-03-19,activo
+522,Sebastian Hernandez,1,3,Bucaramanga,cliente522@gmail.com,319635649,2025-10-12,activo
+523,Comercializadora La 70 #32,5,5,Bogota,cliente523@empresa.com.co,319344488,2024-08-14,activo
+524,Colegio San Jose #12,2,3,Cali,cliente524@empresa.com.co,319479950,2024-12-15,activo
+525,Carlos Torres,1,4,Bogota,cliente525@gmail.com,306920597,2026-03-06,activo
+526,Camila Rodriguez,1,1,Medellin,cliente526@gmail.com,319302946,2024-11-11,inactivo
+527,Andrea Jimenez,1,4,Bogota,cliente527@gmail.com,311137194,2025-06-09,activo
+528,Valentina Suarez,1,5,Cartagena,cliente528@gmail.com,305437118,2024-11-16,activo
+529,Mariana Ortiz,1,4,Manizales,cliente529@gmail.com,311759041,2025-09-12,activo
+530,David Rodriguez,1,5,Medellin,cliente530@gmail.com,324265774,2025-01-26,activo
+531,Mariana Pena,1,5,Ibague,cliente531@gmail.com,312233658,2025-09-20,activo
+532,David Mendoza,1,4,Bucaramanga,cliente532@gmail.com,315692934,2025-05-01,activo
+533,Andrea Rivera,1,5,Cali,cliente533@gmail.com,303158613,2026-04-21,activo
+534,Valentina Ortiz,1,5,Barranquilla,cliente534@gmail.com,316688907,2024-10-23,activo
+535,Catalina Rojas,1,4,Bogota,cliente535@gmail.com,304339637,2025-04-21,activo
+536,Colegio Los Andes #65,2,4,Medellin,cliente536@empresa.com.co,301760064,2025-09-22,activo
+537,Colegio San Jose #18,2,4,Cucuta,cliente537@empresa.com.co,326587495,2024-11-16,activo
+538,Natalia Mendoza,1,4,Bogota,cliente538@gmail.com,313498809,2026-05-16,activo
+539,Totto Chipichape #29,4,5,Cali,cliente539@empresa.com.co,323345135,2026-01-28,activo
+540,Felipe Rivera,1,5,Barranquilla,cliente540@gmail.com,313726331,2024-08-04,activo
+541,Colegio Los Andes #79,2,3,Bogota,cliente541@empresa.com.co,326020319,2026-01-16,activo
+542,Institucion Educativa Nacional #65,2,3,Barranquilla,cliente542@empresa.com.co,329931180,2024-06-27,activo
+543,Natalia Cortes,1,5,Bogota,cliente543@gmail.com,318967375,2025-02-15,activo
+544,Andres Rojas,1,5,Cucuta,cliente544@gmail.com,312838859,2025-07-04,activo
+545,Paula Cortes,1,4,Medellin,cliente545@gmail.com,311447065,2025-04-18,activo
+546,Andrea Jimenez,1,5,Cali,cliente546@gmail.com,314817541,2026-03-24,activo
+547,Camila Cortes,1,5,Ibague,cliente547@gmail.com,313860717,2026-02-04,activo
+548,Diego Rivera,1,3,Cucuta,cliente548@gmail.com,313479264,2024-08-23,activo
+549,Importadora Global #88,3,4,Medellin,cliente549@empresa.com.co,301529665,2026-02-23,activo
+550,Grupo Empresarial Sur #90,3,4,Cartagena,cliente550@empresa.com.co,304200829,2025-12-21,activo
+551,Andres Gutierrez,1,4,Bogota,cliente551@gmail.com,318025967,2025-03-18,activo
+552,Santiago Suarez,1,3,Barranquilla,cliente552@gmail.com,324420734,2025-02-05,activo
+553,Comercializadora La 70 #33,5,5,Barranquilla,cliente553@empresa.com.co,328912226,2026-01-14,activo
+554,Camila Garcia,1,5,Pereira,cliente554@gmail.com,324478616,2026-03-27,activo
+555,Catalina Castro,1,2,Cali,cliente555@gmail.com,329025733,2025-12-03,inactivo
+556,Diego Ortiz,1,5,Cali,cliente556@gmail.com,313905518,2025-03-15,activo
+557,Carlos Pena,1,3,Medellin,cliente557@gmail.com,316943949,2024-07-20,activo
+558,Mateo Rivera,1,5,Bogota,cliente558@gmail.com,314225657,2026-04-25,activo
+559,Daniela Vargas,1,5,Ibague,cliente559@gmail.com,326007984,2025-04-08,activo
+560,Daniela Morales,1,5,Cali,cliente560@gmail.com,314477544,2025-04-13,activo
+561,Natalia Castro,1,1,Barranquilla,cliente561@gmail.com,316851946,2024-11-03,inactivo
+562,Catalina Vargas,1,5,Barranquilla,cliente562@gmail.com,313044708,2024-09-18,activo
+563,Nicolas Pena,1,4,Cartagena,cliente563@gmail.com,317619156,2025-04-28,activo
+564,Mariana Garcia,1,1,Ibague,cliente564@gmail.com,311705758,2024-07-12,activo
+565,Sofia Martinez,1,3,Ibague,cliente565@gmail.com,318421839,2024-11-20,activo
+566,Mateo Jimenez,1,5,Bogota,cliente566@gmail.com,304390138,2025-01-05,activo
+567,Catalina Vargas,1,5,Barranquilla,cliente567@gmail.com,325557052,2024-07-15,activo
+568,Santiago Lopez,1,5,Ibague,cliente568@gmail.com,325014486,2026-01-08,activo
+569,Daniela Rodriguez,1,5,Bogota,cliente569@gmail.com,329909397,2025-08-24,activo
+570,Daniela Torres,1,4,Medellin,cliente570@gmail.com,302681042,2024-09-03,activo
+571,Totto El Tesoro #11,4,5,Medellin,cliente571@empresa.com.co,328925622,2024-10-19,activo
+572,Valentina Garcia,1,4,Medellin,cliente572@gmail.com,303649811,2026-01-17,activo
+573,Colegio Los Andes #84,2,3,Bucaramanga,cliente573@empresa.com.co,319010256,2024-06-08,activo
+574,Sebastian Morales,1,5,Medellin,cliente574@gmail.com,315788474,2024-06-14,activo
+575,Camila Martinez,1,5,Bucaramanga,cliente575@gmail.com,324896008,2024-09-07,activo
+576,Catalina Rodriguez,1,2,Bogota,cliente576@gmail.com,308010946,2024-06-09,inactivo
+577,Laura Rodriguez,1,5,Ibague,cliente577@gmail.com,319311162,2025-12-30,activo
+578,Falabella #19,5,5,Medellin,cliente578@empresa.com.co,301155477,2024-08-19,activo
+579,Sofia Cortes,1,5,Medellin,cliente579@gmail.com,322800206,2026-01-29,activo
+580,Felipe Morales,1,5,Medellin,cliente580@gmail.com,319796605,2024-09-17,activo
+581,Natalia Garcia,1,4,Bucaramanga,cliente581@gmail.com,328852085,2025-05-09,activo
+582,Mateo Ramirez,1,4,Medellin,cliente582@gmail.com,306547958,2025-04-27,activo
+583,Gimnasio Campestre #94,2,5,Manizales,cliente583@empresa.com.co,315316188,2026-04-19,activo
+584,Gimnasio Campestre #2,2,4,Bogota,cliente584@empresa.com.co,326655803,2025-10-09,activo
+585,Sofia Cortes,1,5,Bogota,cliente585@gmail.com,324240708,2026-01-27,activo
+586,Laura Rivera,1,1,Manizales,cliente586@gmail.com,327802999,2025-04-29,inactivo
+587,Paula Mendoza,1,5,Barranquilla,cliente587@gmail.com,312455218,2026-03-07,activo
+588,David Lopez,1,5,Cali,cliente588@gmail.com,303359075,2024-07-18,activo
+589,Natalia Castro,1,4,Bogota,cliente589@gmail.com,301114590,2025-11-13,activo
+590,Mateo Ortiz,1,3,Barranquilla,cliente590@gmail.com,308494978,2024-07-01,activo
+591,Mateo Castro,1,5,Bucaramanga,cliente591@gmail.com,311191859,2024-07-22,activo
+592,Mateo Rojas,1,4,Bogota,cliente592@gmail.com,324964499,2026-04-20,activo
+593,Colegio San Jose #86,2,3,Medellin,cliente593@empresa.com.co,308808032,2024-12-31,activo
+594,Sofia Hernandez,1,4,Cartagena,cliente594@gmail.com,319430894,2025-09-20,activo
+595,Sofia Lopez,1,4,Bogota,cliente595@gmail.com,325949909,2024-08-10,activo
+596,Mariana Rivera,1,5,Bucaramanga,cliente596@gmail.com,304676367,2024-12-08,activo
+597,Santiago Jimenez,1,5,Bogota,cliente597@gmail.com,308633275,2026-04-28,activo
+598,Andrea Rojas,1,5,Bucaramanga,cliente598@gmail.com,318899184,2025-08-24,activo
+599,Catalina Ramirez,1,3,Bogota,cliente599@gmail.com,302373555,2024-08-27,activo
+600,Diego Gutierrez,1,5,Cartagena,cliente600@gmail.com,327069742,2025-09-07,activo
+601,Juan Cortes,1,5,Bogota,cliente601@gmail.com,302036128,2026-04-29,activo
+602,Universidad Central #74,2,5,Bogota,cliente602@empresa.com.co,323514105,2026-05-07,activo
+603,Laura Castro,1,5,Cali,cliente603@gmail.com,328412854,2025-11-21,activo
+604,Soluciones TI SAS #88,3,4,Barranquilla,cliente604@empresa.com.co,309201172,2024-09-01,activo
+605,Juan Mendoza,1,5,Cucuta,cliente605@gmail.com,311933413,2024-11-09,activo
+606,Carlos Garcia,1,5,Medellin,cliente606@gmail.com,327969667,2025-04-13,activo
+607,Carlos Cortes,1,5,Cucuta,cliente607@gmail.com,308757420,2024-11-21,activo
+608,Sofia Gomez,1,1,Bogota,cliente608@gmail.com,315269083,2026-03-01,inactivo
+609,Andres Ramirez,1,2,Bogota,cliente609@gmail.com,322225232,2026-01-09,inactivo
+610,Soluciones TI SAS #55,3,4,Pereira,cliente610@empresa.com.co,312069713,2026-03-24,activo
+611,Catalina Rodriguez,1,3,Bucaramanga,cliente611@gmail.com,308920040,2025-04-28,activo
+612,Soluciones TI SAS #37,3,4,Bucaramanga,cliente612@empresa.com.co,314019585,2025-12-12,activo
+613,Santiago Suarez,1,5,Bogota,cliente613@gmail.com,317416943,2025-06-28,activo
+614,Comercializadora La 70 #25,5,5,Cucuta,cliente614@empresa.com.co,312346371,2024-07-02,activo
+615,Catalina Garcia,1,2,Bogota,cliente615@gmail.com,326834610,2025-11-05,inactivo
+616,Soluciones TI SAS #23,3,3,Bogota,cliente616@empresa.com.co,327594429,2025-05-31,activo
+617,Grupo Empresarial Sur #17,3,5,Bucaramanga,cliente617@empresa.com.co,324736121,2025-06-26,activo
+618,Andres Gomez,1,3,Cali,cliente618@gmail.com,318767916,2025-01-01,activo
+619,Catalina Suarez,1,4,Barranquilla,cliente619@gmail.com,327363203,2026-02-19,activo
+620,Daniela Torres,1,4,Bucaramanga,cliente620@gmail.com,316807596,2024-09-24,activo
+621,Santiago Vargas,1,5,Bogota,cliente621@gmail.com,302893218,2024-11-25,activo
+622,Colegio San Jose #85,2,4,Ibague,cliente622@empresa.com.co,311262492,2024-08-11,activo
+623,Daniela Ramirez,1,4,Cartagena,cliente623@gmail.com,302692765,2024-10-25,activo
+624,Andrea Rodriguez,1,4,Bucaramanga,cliente624@gmail.com,311816653,2025-08-18,activo
+625,Daniela Rodriguez,1,3,Medellin,cliente625@gmail.com,318364573,2025-12-17,activo
+626,Daniela Pena,1,5,Bogota,cliente626@gmail.com,301946973,2025-11-30,activo
+627,Santiago Mendoza,1,5,Bucaramanga,cliente627@gmail.com,314928578,2024-10-24,activo
+628,Tiendas Multimarca SA #21,5,5,Medellin,cliente628@empresa.com.co,326379867,2025-01-22,activo
+629,Daniela Morales,1,2,Bogota,cliente629@gmail.com,309745141,2026-02-22,activo
+630,Falabella #27,5,5,Medellin,cliente630@empresa.com.co,315616316,2025-04-19,activo
+631,Colegio San Jose #72,2,4,Manizales,cliente631@empresa.com.co,323938247,2025-08-01,activo
+632,Paula Pena,1,3,Medellin,cliente632@gmail.com,311786584,2025-10-14,activo
+633,Mariana Ortiz,1,5,Cali,cliente633@gmail.com,326347476,2025-02-11,activo
+634,Colegio Los Andes #53,2,4,Bogota,cliente634@empresa.com.co,306031294,2025-07-29,activo
+635,David Hernandez,1,3,Barranquilla,cliente635@gmail.com,328944327,2024-07-17,activo
+636,Daniela Torres,1,5,Cali,cliente636@gmail.com,313421820,2025-07-09,activo
+637,Carlos Rodriguez,1,4,Barranquilla,cliente637@gmail.com,327923579,2026-01-01,activo
+638,Paula Pena,1,5,Cartagena,cliente638@gmail.com,323249703,2025-05-25,activo
+639,David Torres,1,4,Bogota,cliente639@gmail.com,314411424,2025-01-27,activo
+640,Institucion Educativa Nacional #83,2,4,Barranquilla,cliente640@empresa.com.co,308546170,2025-12-20,activo
+641,Mariana Martinez,1,4,Medellin,cliente641@gmail.com,324195751,2024-09-15,activo
+642,Camila Vargas,1,4,Medellin,cliente642@gmail.com,311663497,2024-08-03,activo
+643,Juan Ramirez,1,4,Cali,cliente643@gmail.com,324640933,2025-11-12,activo
+644,Comercializadora La 70 #14,5,5,Cucuta,cliente644@empresa.com.co,316086650,2025-09-06,activo
+645,Andres Ramirez,1,4,Barranquilla,cliente645@gmail.com,302968239,2025-12-18,activo
+646,Natalia Torres,1,2,Medellin,cliente646@gmail.com,324431161,2026-01-26,inactivo
+647,David Torres,1,2,Cali,cliente647@gmail.com,326395804,2025-07-29,activo
+648,Sofia Ortiz,1,1,Medellin,cliente648@gmail.com,319953163,2025-01-27,inactivo
+649,Mariana Morales,1,5,Bogota,cliente649@gmail.com,317033835,2026-01-20,activo
+650,Diego Jimenez,1,5,Cali,cliente650@gmail.com,312654371,2025-01-02,activo
+651,Comercializadora La 70 #21,5,5,Bogota,cliente651@empresa.com.co,307219396,2025-04-06,activo
+652,Constructora del Valle #53,3,3,Pereira,cliente652@empresa.com.co,304712363,2024-10-12,activo
+653,Consultora Vertex #19,3,5,Medellin,cliente653@empresa.com.co,305375063,2025-05-14,activo
+654,Catalina Cortes,1,4,Bogota,cliente654@gmail.com,328005797,2025-11-07,activo
+655,Sofia Garcia,1,4,Medellin,cliente655@gmail.com,306534221,2025-11-08,activo
+656,Universidad Central #49,2,3,Bogota,cliente656@empresa.com.co,325122665,2025-08-14,activo
+657,Natalia Pena,1,5,Bucaramanga,cliente657@gmail.com,326663388,2025-09-17,activo
+658,Distrimax SAS #32,5,4,Bogota,cliente658@empresa.com.co,329230828,2024-07-12,activo
+659,Carlos Hernandez,1,5,Bogota,cliente659@gmail.com,326908535,2024-11-25,activo
+660,Totto Unicentro #5,4,5,Bogota,cliente660@empresa.com.co,329192588,2024-12-13,activo
+661,Gimnasio Campestre #70,2,4,Medellin,cliente661@empresa.com.co,321985360,2025-12-12,activo
+662,Diego Rodriguez,1,4,Medellin,cliente662@gmail.com,301813936,2024-06-25,activo
+663,Andres Suarez,1,5,Manizales,cliente663@gmail.com,304882808,2024-09-09,activo
+664,Juan Garcia,1,4,Medellin,cliente664@gmail.com,304669507,2025-02-06,activo
+665,Totto Chipichape #15,4,5,Bogota,cliente665@empresa.com.co,312014184,2025-09-21,activo
+666,Tiendas Multimarca SA #40,5,5,Cali,cliente666@empresa.com.co,319184838,2026-04-06,activo
+667,Andres Gomez,1,5,Medellin,cliente667@gmail.com,327901115,2024-12-05,activo
+668,Colegio San Jose #3,2,3,Ibague,cliente668@empresa.com.co,325609384,2024-12-02,activo
+669,Catalina Morales,1,4,Bogota,cliente669@gmail.com,309425786,2025-07-13,activo
+670,Paula Hernandez,1,4,Ibague,cliente670@gmail.com,302615878,2025-08-13,activo
+671,Diego Garcia,1,5,Bogota,cliente671@gmail.com,304220085,2024-09-17,activo
+672,Andrea Mendoza,1,4,Bogota,cliente672@gmail.com,316946534,2026-02-03,activo
+673,Mateo Ortiz,1,1,Cali,cliente673@gmail.com,307258766,2024-08-22,inactivo
+674,Seguros Bolivar Ltda #59,3,5,Bucaramanga,cliente674@empresa.com.co,325080351,2024-07-19,activo
+675,Universidad Central #39,2,3,Cali,cliente675@empresa.com.co,322352527,2024-07-29,activo
+676,Camila Martinez,1,5,Medellin,cliente676@gmail.com,317362994,2024-09-28,activo
+677,Comercializadora La 70 #36,5,5,Pereira,cliente677@empresa.com.co,311941452,2025-09-25,activo
+678,Andres Hernandez,1,4,Medellin,cliente678@gmail.com,309386232,2025-09-12,activo
+679,Paula Castro,1,4,Bogota,cliente679@gmail.com,322599906,2025-06-05,activo
+680,Grupo Empresarial Sur #6,3,5,Medellin,cliente680@empresa.com.co,304546989,2024-07-08,activo
+681,Universidad del Norte #35,2,4,Bogota,cliente681@empresa.com.co,302247353,2024-12-04,activo
+682,Mateo Pena,1,2,Medellin,cliente682@gmail.com,321552000,2025-11-27,activo
+683,Laura Castro,1,3,Bogota,cliente683@gmail.com,304475536,2026-02-23,activo
+684,Grupo Empresarial Sur #19,3,5,Pereira,cliente684@empresa.com.co,327682298,2024-11-19,activo
+685,Juan Morales,1,4,Ibague,cliente685@gmail.com,305034453,2025-12-08,activo
+686,Nicolas Ortiz,1,5,Bogota,cliente686@gmail.com,326565503,2025-05-01,activo
+687,Totto El Tesoro #25,4,5,Cali,cliente687@empresa.com.co,323347981,2025-05-25,activo
+688,Juan Mendoza,1,5,Barranquilla,cliente688@gmail.com,326802559,2026-01-13,activo
+689,Camila Lopez,1,2,Cartagena,cliente689@gmail.com,314894730,2026-04-26,activo
+690,Juan Castro,1,3,Cali,cliente690@gmail.com,327655572,2024-12-24,activo
+691,Institucion Educativa Nacional #4,2,3,Cali,cliente691@empresa.com.co,325585666,2025-08-31,activo
+692,Universidad del Norte #63,2,3,Medellin,cliente692@empresa.com.co,306969521,2026-03-21,activo
+693,Catalina Ortiz,1,4,Bogota,cliente693@gmail.com,314116163,2025-10-15,activo
+694,Colegio Los Andes #11,2,3,Bogota,cliente694@empresa.com.co,325955645,2026-02-08,activo
+695,Totto Unicentro #23,4,5,Bogota,cliente695@empresa.com.co,302376369,2026-05-10,activo
+696,Mateo Garcia,1,4,Bogota,cliente696@gmail.com,313588336,2024-10-11,activo
+697,Totto El Tesoro #11,4,5,Barranquilla,cliente697@empresa.com.co,312787627,2024-09-18,activo
+698,Juan Gomez,1,5,Cali,cliente698@gmail.com,318461429,2024-07-31,activo
+699,Totto Santafe #25,4,5,Cartagena,cliente699@empresa.com.co,312715158,2025-05-30,activo
+700,Falabella #6,5,5,Medellin,cliente700@empresa.com.co,308230636,2026-05-10,activo
+701,Carlos Pena,1,5,Barranquilla,cliente701@gmail.com,329597330,2024-09-28,activo
+702,Totto El Tesoro #4,4,5,Medellin,cliente702@empresa.com.co,302503554,2024-09-25,activo
+703,Mariana Pena,1,3,Cali,cliente703@gmail.com,306443037,2025-06-15,activo
+704,Colegio Los Andes #2,2,4,Manizales,cliente704@empresa.com.co,317942580,2024-07-28,activo
+705,Colegio Los Andes #11,2,4,Bogota,cliente705@empresa.com.co,325072543,2026-02-08,activo
+706,Grupo Empresarial Sur #67,3,5,Cali,cliente706@empresa.com.co,307387623,2025-10-25,activo
+707,Laura Garcia,1,4,Medellin,cliente707@gmail.com,316052144,2026-01-13,activo
+708,Mateo Jimenez,1,1,Medellin,cliente708@gmail.com,302061446,2025-05-22,inactivo
+709,Logistica Andina #56,3,4,Medellin,cliente709@empresa.com.co,318064924,2024-10-04,activo
+710,Colegio Britanico #62,2,4,Cartagena,cliente710@empresa.com.co,307058670,2024-08-12,activo
+711,Mateo Torres,1,3,Bogota,cliente711@gmail.com,329318184,2025-02-06,activo
+712,Andrea Rivera,1,5,Bucaramanga,cliente712@gmail.com,308681643,2025-09-12,activo
+713,Valentina Garcia,1,3,Medellin,cliente713@gmail.com,311113537,2026-01-27,activo
+714,David Castro,1,4,Ibague,cliente714@gmail.com,327373495,2025-08-31,activo
+715,Felipe Gutierrez,1,5,Barranquilla,cliente715@gmail.com,318224541,2025-01-21,activo
+716,Andrea Garcia,1,4,Bogota,cliente716@gmail.com,316379868,2024-10-04,activo
+717,Grupo Empresarial Sur #89,3,3,Bogota,cliente717@empresa.com.co,309036449,2026-01-24,activo
+718,Felipe Hernandez,1,5,Barranquilla,cliente718@gmail.com,316354241,2025-10-13,activo
+719,Sofia Jimenez,1,5,Bogota,cliente719@gmail.com,325067204,2024-11-01,activo
+720,Felipe Ortiz,1,5,Bogota,cliente720@gmail.com,317592357,2025-09-14,activo
+721,Distrimax SAS #8,5,5,Pereira,cliente721@empresa.com.co,324352088,2025-12-04,activo
+722,Gimnasio Campestre #88,2,3,Barranquilla,cliente722@empresa.com.co,321451577,2024-12-05,activo
+723,Totto El Tesoro #23,4,5,Barranquilla,cliente723@empresa.com.co,308356053,2025-07-09,activo
+724,Sofia Martinez,1,5,Medellin,cliente724@gmail.com,319376917,2025-04-28,activo
+725,Logistica Andina #82,3,5,Cali,cliente725@empresa.com.co,315060441,2025-03-01,activo
+726,Distrimax SAS #10,5,5,Bogota,cliente726@empresa.com.co,328098909,2025-04-01,activo
+727,David Martinez,1,5,Bucaramanga,cliente727@gmail.com,319040224,2026-03-24,activo
+728,Nicolas Ortiz,1,4,Pereira,cliente728@gmail.com,329499549,2024-12-28,activo
+729,Totto El Tesoro #18,4,5,Bucaramanga,cliente729@empresa.com.co,307031903,2026-01-01,activo
+730,Catalina Rivera,1,2,Ibague,cliente730@gmail.com,322425760,2025-11-06,inactivo
+731,Valentina Torres,1,5,Cartagena,cliente731@gmail.com,326956059,2024-12-20,activo
+732,Logistica Andina #83,3,5,Bogota,cliente732@empresa.com.co,321743175,2025-10-20,activo
+733,Nicolas Ortiz,1,4,Bogota,cliente733@gmail.com,318221845,2024-11-22,activo
+734,Valentina Gomez,1,1,Medellin,cliente734@gmail.com,305340909,2025-01-03,activo
+735,Daniela Mendoza,1,5,Bogota,cliente735@gmail.com,329703982,2025-01-02,activo
+736,Universidad Central #58,2,4,Bogota,cliente736@empresa.com.co,317562142,2026-03-13,activo
+737,Seguros Bolivar Ltda #99,3,5,Barranquilla,cliente737@empresa.com.co,329396422,2025-08-02,activo
+738,Totto Unicentro #12,4,5,Bogota,cliente738@empresa.com.co,309099554,2024-07-27,activo
+739,Valentina Morales,1,5,Cartagena,cliente739@gmail.com,312440404,2024-06-25,activo
+740,Valentina Garcia,1,5,Ibague,cliente740@gmail.com,316232651,2026-02-07,activo
+741,Felipe Gutierrez,1,5,Bogota,cliente741@gmail.com,309742856,2026-01-20,activo
+742,Natalia Rojas,1,3,Bogota,cliente742@gmail.com,312637842,2024-08-07,activo
+743,Totto El Tesoro #24,4,5,Barranquilla,cliente743@empresa.com.co,328590804,2026-01-19,activo
+744,Constructora del Valle #9,3,5,Cali,cliente744@empresa.com.co,311749657,2025-06-08,activo
+745,Valentina Gomez,1,3,Bogota,cliente745@gmail.com,312834801,2025-04-09,activo
+746,Gimnasio Campestre #95,2,4,Cali,cliente746@empresa.com.co,309656941,2026-03-05,activo
+747,Laura Pena,1,4,Cali,cliente747@gmail.com,306553084,2025-08-29,activo
+748,Catalina Suarez,1,1,Barranquilla,cliente748@gmail.com,314889890,2024-11-18,activo
+749,David Hernandez,1,1,Bogota,cliente749@gmail.com,308250013,2025-03-04,activo
+750,David Gomez,1,5,Barranquilla,cliente750@gmail.com,324310554,2026-04-16,activo
+751,Carlos Cortes,1,5,Bucaramanga,cliente751@gmail.com,317523581,2025-05-31,activo
+752,Andres Ramirez,1,2,Bogota,cliente752@gmail.com,305669851,2024-12-01,inactivo
+753,Juan Cortes,1,5,Medellin,cliente753@gmail.com,304136665,2024-07-03,activo
+754,Mariana Castro,1,5,Bogota,cliente754@gmail.com,308676422,2026-05-01,activo
+755,Valentina Vargas,1,5,Medellin,cliente755@gmail.com,329212178,2024-10-20,activo
+756,Diego Castro,1,4,Bogota,cliente756@gmail.com,327520284,2024-10-28,activo
+757,Andrea Ortiz,1,3,Bogota,cliente757@gmail.com,322916496,2024-06-06,activo
+758,Mariana Rojas,1,4,Bogota,cliente758@gmail.com,313894531,2024-08-17,activo
+759,Sofia Rivera,1,4,Cartagena,cliente759@gmail.com,322421902,2025-07-17,activo
+760,Santiago Castro,1,2,Bogota,cliente760@gmail.com,305002586,2026-04-02,activo
+761,Sofia Lopez,1,4,Bogota,cliente761@gmail.com,307263036,2025-08-19,activo
+762,Santiago Mendoza,1,4,Medellin,cliente762@gmail.com,318016887,2025-06-01,activo
+763,Grupo Empresarial Sur #18,3,5,Medellin,cliente763@empresa.com.co,327437584,2025-10-19,activo
+764,Comercializadora La 70 #12,5,5,Bogota,cliente764@empresa.com.co,313906397,2024-12-15,activo
+765,Catalina Hernandez,1,4,Medellin,cliente765@gmail.com,315845843,2025-03-23,activo
+766,Totto Unicentro #6,4,5,Bucaramanga,cliente766@empresa.com.co,318566540,2025-08-12,activo
+767,Andrea Rodriguez,1,1,Cartagena,cliente767@gmail.com,311160783,2026-04-19,activo
+768,Seguros Bolivar Ltda #18,3,5,Bogota,cliente768@empresa.com.co,307441514,2025-09-02,activo
+769,Catalina Mendoza,1,4,Bogota,cliente769@gmail.com,329304216,2024-07-13,activo
+770,Paula Jimenez,1,5,Barranquilla,cliente770@gmail.com,318446596,2024-08-22,activo
+771,Natalia Hernandez,1,5,Medellin,cliente771@gmail.com,301517756,2025-02-21,activo
+772,Daniela Morales,1,5,Medellin,cliente772@gmail.com,305611266,2025-11-23,activo
+773,Daniela Pena,1,5,Bogota,cliente773@gmail.com,313822078,2025-02-11,activo
+774,Comercializadora La 70 #37,5,5,Barranquilla,cliente774@empresa.com.co,329309978,2025-10-02,activo
+775,Catalina Mendoza,1,4,Cali,cliente775@gmail.com,302916069,2024-06-08,activo
+776,Mateo Pena,1,1,Manizales,cliente776@gmail.com,311698108,2025-08-16,activo
+777,Importadora Global #93,3,4,Bucaramanga,cliente777@empresa.com.co,314666525,2024-08-26,activo
+778,Totto El Tesoro #4,4,5,Bogota,cliente778@empresa.com.co,325152891,2025-06-20,activo
+779,Sofia Rodriguez,1,4,Bogota,cliente779@gmail.com,315409307,2025-03-31,activo
+780,Mariana Martinez,1,5,Medellin,cliente780@gmail.com,312969410,2025-07-21,activo
+781,Daniela Ramirez,1,4,Bogota,cliente781@gmail.com,326882609,2025-07-08,activo
+782,Andrea Suarez,1,4,Bucaramanga,cliente782@gmail.com,303335975,2025-09-13,activo
+783,Importadora Global #27,3,4,Barranquilla,cliente783@empresa.com.co,301995859,2025-04-06,activo
+784,Nicolas Rojas,1,5,Bogota,cliente784@gmail.com,325715824,2025-01-07,activo
+785,Gimnasio Campestre #42,2,5,Medellin,cliente785@empresa.com.co,325909595,2025-12-27,activo
+786,Constructora del Valle #74,3,5,Pereira,cliente786@empresa.com.co,319630451,2026-03-22,activo
+787,Valentina Garcia,1,3,Bogota,cliente787@gmail.com,311994652,2025-07-25,activo
+788,Mateo Garcia,1,3,Cali,cliente788@gmail.com,323226183,2025-10-22,activo
+789,Daniela Garcia,1,3,Medellin,cliente789@gmail.com,326403886,2024-09-29,activo
+790,Daniela Ortiz,1,3,Bogota,cliente790@gmail.com,313385244,2026-03-03,activo
+791,Nicolas Vargas,1,3,Bogota,cliente791@gmail.com,327949543,2024-06-19,activo
+792,David Gutierrez,1,5,Barranquilla,cliente792@gmail.com,302561871,2025-02-01,activo
+793,David Mendoza,1,5,Medellin,cliente793@gmail.com,325667852,2025-01-11,activo
+794,Mariana Gutierrez,1,4,Cali,cliente794@gmail.com,316491002,2025-02-18,activo
+795,Nicolas Gomez,1,5,Ibague,cliente795@gmail.com,322562657,2025-04-23,activo
+796,Carlos Rojas,1,2,Bogota,cliente796@gmail.com,309966154,2025-05-16,inactivo
+797,David Ramirez,1,1,Cali,cliente797@gmail.com,314554277,2026-04-26,inactivo
+798,Natalia Vargas,1,5,Bogota,cliente798@gmail.com,315757902,2024-06-23,activo
+799,Felipe Pena,1,4,Bogota,cliente799@gmail.com,323191007,2024-06-17,activo
+800,Universidad del Norte #44,2,4,Medellin,cliente800@empresa.com.co,321812172,2024-12-26,activo
+801,Totto C.C. Andino #4,4,5,Bogota,cliente801@empresa.com.co,328710502,2026-04-20,activo
+802,Andres Lopez,1,4,Manizales,cliente802@gmail.com,308403549,2025-08-09,activo
+803,Seguros Bolivar Ltda #1,3,3,Ibague,cliente803@empresa.com.co,314394336,2024-12-25,activo
+804,Falabella #20,5,5,Medellin,cliente804@empresa.com.co,305597283,2025-03-05,activo
+805,Juan Rojas,1,1,Cali,cliente805@gmail.com,312382787,2024-09-19,inactivo
+806,Mariana Hernandez,1,4,Cali,cliente806@gmail.com,307649508,2025-12-01,activo
+807,Consultora Vertex #40,3,5,Medellin,cliente807@empresa.com.co,324928281,2025-01-04,activo
+808,Paula Martinez,1,4,Bogota,cliente808@gmail.com,322596917,2024-07-12,activo
+809,Andres Ramirez,1,4,Bogota,cliente809@gmail.com,312307594,2026-04-27,activo
+810,Santiago Cortes,1,3,Medellin,cliente810@gmail.com,309714828,2025-07-23,activo
+811,Carlos Gomez,1,5,Medellin,cliente811@gmail.com,306764217,2025-08-25,activo
+812,Valentina Suarez,1,5,Medellin,cliente812@gmail.com,323217531,2026-05-17,activo
+813,Totto El Tesoro #3,4,5,Barranquilla,cliente813@empresa.com.co,307426846,2025-07-15,activo
+814,Juan Lopez,1,1,Bogota,cliente814@gmail.com,306257165,2025-03-12,activo
+815,Mariana Morales,1,3,Medellin,cliente815@gmail.com,307420993,2025-06-26,activo
+816,Santiago Garcia,1,5,Ibague,cliente816@gmail.com,309900451,2026-03-17,activo
+817,Colegio San Jose #79,2,3,Cali,cliente817@empresa.com.co,323753418,2026-02-17,activo
+818,Carlos Rojas,1,5,Cartagena,cliente818@gmail.com,324574477,2024-08-29,activo
+819,Gimnasio Campestre #53,2,4,Bogota,cliente819@empresa.com.co,328421969,2026-02-22,activo
+820,Falabella #6,5,5,Bogota,cliente820@empresa.com.co,303349030,2025-04-30,activo
+821,Almacenes Exito #38,5,5,Medellin,cliente821@empresa.com.co,327442986,2026-02-12,activo
+822,Mariana Suarez,1,5,Medellin,cliente822@gmail.com,313345961,2024-12-23,activo
+823,Daniela Vargas,1,5,Bucaramanga,cliente823@gmail.com,322413458,2025-03-06,activo
+824,Daniela Pena,1,4,Medellin,cliente824@gmail.com,325780177,2025-07-21,activo
+825,Importadora Global #89,3,4,Ibague,cliente825@empresa.com.co,306060836,2025-03-21,activo
+826,Logistica Andina #67,3,4,Bucaramanga,cliente826@empresa.com.co,329548370,2025-07-18,activo
+827,Falabella #26,5,5,Bogota,cliente827@empresa.com.co,311915518,2024-08-18,activo
+828,Importadora Global #31,3,3,Medellin,cliente828@empresa.com.co,317474085,2026-01-31,activo
+829,Totto C.C. Andino #8,4,5,Bogota,cliente829@empresa.com.co,312191383,2026-02-27,activo
+830,Diego Gomez,1,1,Cali,cliente830@gmail.com,316309530,2025-08-26,inactivo
+831,Totto Unicentro #13,4,5,Bogota,cliente831@empresa.com.co,328060918,2025-05-10,activo
+832,Mariana Pena,1,3,Bucaramanga,cliente832@gmail.com,323898604,2025-10-12,activo
+833,Natalia Martinez,1,5,Bogota,cliente833@gmail.com,302133008,2025-02-14,activo
+834,Soluciones TI SAS #34,3,4,Bogota,cliente834@empresa.com.co,301668183,2024-10-30,activo
+835,Almacenes Exito #26,5,5,Bogota,cliente835@empresa.com.co,325806467,2026-05-20,activo
+836,Diego Suarez,1,4,Cartagena,cliente836@gmail.com,317749095,2024-12-30,activo
+837,Juan Pena,1,4,Bucaramanga,cliente837@gmail.com,323561552,2026-01-22,activo
+838,Colegio Britanico #11,2,3,Bogota,cliente838@empresa.com.co,312325761,2025-11-25,activo
+839,Universidad Central #20,2,5,Barranquilla,cliente839@empresa.com.co,326481960,2025-12-04,activo
+840,Seguros Bolivar Ltda #76,3,4,Cali,cliente840@empresa.com.co,322109227,2024-08-03,activo
+841,Sofia Suarez,1,5,Bogota,cliente841@gmail.com,325003671,2025-03-21,activo
+842,Camila Torres,1,4,Bogota,cliente842@gmail.com,308289425,2025-02-07,activo
+843,Valentina Gutierrez,1,3,Cartagena,cliente843@gmail.com,321923227,2026-04-14,activo
+844,Sofia Hernandez,1,5,Cucuta,cliente844@gmail.com,301212482,2025-06-12,activo
+845,Santiago Gomez,1,5,Bogota,cliente845@gmail.com,309328426,2025-05-27,activo
+846,Institucion Educativa Nacional #67,2,3,Barranquilla,cliente846@empresa.com.co,325349442,2024-07-07,activo
+847,Laura Rojas,1,4,Medellin,cliente847@gmail.com,305509119,2024-12-30,activo
+848,Valentina Gomez,1,5,Bogota,cliente848@gmail.com,318202871,2025-12-31,activo
+849,Totto Santafe #17,4,5,Medellin,cliente849@empresa.com.co,305411563,2026-03-15,activo
+850,Nicolas Martinez,1,4,Medellin,cliente850@gmail.com,318636951,2024-11-10,activo
+851,Diego Rojas,1,5,Ibague,cliente851@gmail.com,309382064,2025-08-09,activo
+852,Nicolas Hernandez,1,4,Barranquilla,cliente852@gmail.com,313639223,2024-08-28,activo
+853,Totto Santafe #25,4,5,Cali,cliente853@empresa.com.co,302934976,2025-04-20,activo
+854,Daniela Mendoza,1,1,Barranquilla,cliente854@gmail.com,301738833,2024-07-22,inactivo
+855,Andres Torres,1,3,Bogota,cliente855@gmail.com,308914896,2025-10-28,activo
+856,Constructora del Valle #50,3,4,Cartagena,cliente856@empresa.com.co,304002466,2025-07-03,activo
+857,Camila Pena,1,4,Bogota,cliente857@gmail.com,328035849,2025-12-11,activo
+858,Daniela Castro,1,4,Medellin,cliente858@gmail.com,307983626,2024-12-22,activo
+859,Felipe Vargas,1,5,Barranquilla,cliente859@gmail.com,307254683,2024-07-10,activo
+860,Liceo Moderno #65,2,4,Bogota,cliente860@empresa.com.co,321883692,2024-06-01,activo
+861,Laura Torres,1,3,Bogota,cliente861@gmail.com,321770553,2024-12-16,activo
+862,Colegio Los Andes #9,2,5,Bogota,cliente862@empresa.com.co,315736323,2026-01-26,activo
+863,Sofia Castro,1,3,Bogota,cliente863@gmail.com,308662929,2025-11-16,activo
+864,Andres Rojas,1,3,Bogota,cliente864@gmail.com,305892153,2025-02-15,activo
+865,Nicolas Morales,1,5,Pereira,cliente865@gmail.com,325069884,2025-01-12,activo
+866,Universidad del Norte #48,2,4,Manizales,cliente866@empresa.com.co,329277218,2025-04-09,activo
+867,Totto Unicentro #24,4,5,Medellin,cliente867@empresa.com.co,325112546,2026-04-26,activo
+868,Santiago Gomez,1,3,Barranquilla,cliente868@gmail.com,311401147,2025-05-22,activo
+869,Daniela Pena,1,5,Barranquilla,cliente869@gmail.com,311160974,2025-10-20,activo
+870,Felipe Gomez,1,4,Bogota,cliente870@gmail.com,327312844,2025-10-27,activo
+871,Sofia Lopez,1,4,Ibague,cliente871@gmail.com,309888812,2025-11-30,activo
+872,Falabella #27,5,5,Barranquilla,cliente872@empresa.com.co,312004872,2025-01-01,activo
+873,Santiago Vargas,1,5,Cartagena,cliente873@gmail.com,301736524,2025-09-07,activo
+874,Daniela Mendoza,1,4,Medellin,cliente874@gmail.com,317249378,2026-04-20,activo
+875,Carlos Martinez,1,5,Medellin,cliente875@gmail.com,322603516,2025-04-26,activo
+876,Diego Garcia,1,4,Medellin,cliente876@gmail.com,327616116,2025-02-22,activo
+877,Juan Cortes,1,5,Bucaramanga,cliente877@gmail.com,322044933,2025-03-27,activo
+878,Seguros Bolivar Ltda #85,3,5,Pereira,cliente878@empresa.com.co,304972370,2024-10-31,activo
+879,Sofia Vargas,1,5,Medellin,cliente879@gmail.com,317592651,2026-02-24,activo
+880,Felipe Castro,1,5,Barranquilla,cliente880@gmail.com,315562662,2025-08-12,activo
+881,Daniela Martinez,1,2,Bogota,cliente881@gmail.com,303283577,2025-09-13,inactivo
+882,Liceo Moderno #20,2,3,Bogota,cliente882@empresa.com.co,303757754,2025-09-08,activo
+883,Carlos Gutierrez,1,4,Bucaramanga,cliente883@gmail.com,317820148,2024-10-22,activo
+884,Totto C.C. Andino #18,4,5,Bogota,cliente884@empresa.com.co,314483557,2025-02-20,activo
+885,Carlos Morales,1,5,Bogota,cliente885@gmail.com,315446095,2025-06-07,activo
+886,Valentina Martinez,1,4,Pereira,cliente886@gmail.com,306103880,2024-06-11,activo
+887,Andrea Rodriguez,1,5,Medellin,cliente887@gmail.com,306499465,2024-06-14,activo
+888,Santiago Martinez,1,1,Medellin,cliente888@gmail.com,325164420,2025-05-21,inactivo
+889,Mariana Ortiz,1,4,Cali,cliente889@gmail.com,321821255,2025-08-03,activo
+890,Sofia Vargas,1,1,Medellin,cliente890@gmail.com,301521470,2026-04-25,inactivo
+891,David Gutierrez,1,4,Barranquilla,cliente891@gmail.com,325191831,2025-01-11,activo
+892,Liceo Moderno #60,2,4,Cartagena,cliente892@empresa.com.co,303345338,2025-06-11,activo
+893,Almacenes Exito #1,5,5,Bogota,cliente893@empresa.com.co,304729376,2024-06-13,activo
+894,Gimnasio Campestre #26,2,5,Cartagena,cliente894@empresa.com.co,317245146,2024-08-26,activo
+895,Juan Cortes,1,5,Bogota,cliente895@gmail.com,325342289,2024-12-29,activo
+896,Liceo Moderno #3,2,3,Cali,cliente896@empresa.com.co,304317700,2025-02-06,activo
+897,Carlos Garcia,1,5,Bogota,cliente897@gmail.com,306562484,2025-01-02,activo
+898,Valentina Rodriguez,1,5,Ibague,cliente898@gmail.com,311849559,2026-01-31,activo
+899,Laura Cortes,1,4,Manizales,cliente899@gmail.com,317626978,2025-12-16,activo
+900,Universidad del Norte #4,2,4,Medellin,cliente900@empresa.com.co,318158234,2025-03-14,activo
+901,Laura Rojas,1,4,Bogota,cliente901@gmail.com,304139874,2024-11-12,activo
+902,Mateo Vargas,1,1,Medellin,cliente902@gmail.com,313493621,2025-11-21,inactivo
+903,Camila Rivera,1,5,Bogota,cliente903@gmail.com,325123584,2026-04-21,activo
+904,Distrimax SAS #32,5,4,Cartagena,cliente904@empresa.com.co,319036805,2026-05-15,activo
+905,Camila Martinez,1,5,Ibague,cliente905@gmail.com,317425930,2024-07-25,activo
+906,Santiago Suarez,1,5,Bogota,cliente906@gmail.com,309821696,2024-10-19,activo
+907,Daniela Pena,1,3,Barranquilla,cliente907@gmail.com,307417252,2025-12-15,activo
+908,Mariana Jimenez,1,3,Bogota,cliente908@gmail.com,329131572,2026-01-06,activo
+909,Mariana Cortes,1,3,Medellin,cliente909@gmail.com,326395626,2025-09-29,activo
+910,David Vargas,1,4,Medellin,cliente910@gmail.com,301437264,2026-03-23,activo
+911,Felipe Rivera,1,3,Medellin,cliente911@gmail.com,301491630,2026-03-03,activo
+912,Colegio Britanico #8,2,3,Bogota,cliente912@empresa.com.co,319882399,2024-09-15,activo
+913,Mariana Cortes,1,5,Barranquilla,cliente913@gmail.com,303678059,2025-04-19,activo
+914,Valentina Torres,1,3,Cucuta,cliente914@gmail.com,325045872,2025-06-17,activo
+915,Mateo Pena,1,5,Cali,cliente915@gmail.com,321937991,2025-10-03,activo
+916,Daniela Cortes,1,4,Bogota,cliente916@gmail.com,316952633,2026-01-03,activo
+917,Laura Hernandez,1,3,Cali,cliente917@gmail.com,306335227,2025-04-08,activo
+918,Mariana Cortes,1,1,Bogota,cliente918@gmail.com,306900247,2025-04-17,activo
+919,Nicolas Cortes,1,4,Bogota,cliente919@gmail.com,304158036,2026-01-29,activo
+920,Comercializadora La 70 #35,5,5,Cartagena,cliente920@empresa.com.co,313945353,2026-02-05,activo
+921,Natalia Rodriguez,1,4,Ibague,cliente921@gmail.com,301942342,2024-10-20,activo
+922,Falabella #39,5,5,Ibague,cliente922@empresa.com.co,301334336,2025-10-26,activo
+923,Tiendas Multimarca SA #31,5,4,Cali,cliente923@empresa.com.co,306565572,2024-12-04,activo
+924,Andrea Ramirez,1,5,Cali,cliente924@gmail.com,306716988,2024-07-23,activo
+925,Laura Castro,1,4,Ibague,cliente925@gmail.com,301367637,2024-10-15,activo
+926,Gimnasio Campestre #76,2,3,Manizales,cliente926@empresa.com.co,323376537,2026-04-11,activo
+927,Almacenes Exito #34,5,4,Cali,cliente927@empresa.com.co,312216878,2026-05-05,activo
+928,Institucion Educativa Nacional #91,2,4,Bogota,cliente928@empresa.com.co,327636992,2025-05-10,activo
+929,Liceo Moderno #44,2,5,Bogota,cliente929@empresa.com.co,316412383,2025-09-05,activo
+930,Santiago Hernandez,1,4,Bogota,cliente930@gmail.com,328329435,2025-07-12,activo
+931,Universidad del Norte #84,2,5,Medellin,cliente931@empresa.com.co,313922635,2024-06-09,activo
+932,Catalina Rivera,1,5,Medellin,cliente932@gmail.com,314745298,2026-03-29,activo
+933,Nicolas Hernandez,1,5,Barranquilla,cliente933@gmail.com,316147639,2024-11-07,activo
+934,Sofia Garcia,1,2,Pereira,cliente934@gmail.com,301030163,2025-11-07,inactivo
+935,Nicolas Ortiz,1,5,Medellin,cliente935@gmail.com,321543292,2024-06-22,activo
+936,Laura Rivera,1,3,Barranquilla,cliente936@gmail.com,314706007,2024-08-25,activo
+937,Nicolas Lopez,1,3,Medellin,cliente937@gmail.com,313359604,2026-03-25,activo
+938,Distrimax SAS #5,5,5,Bogota,cliente938@empresa.com.co,306818508,2025-11-30,activo
+939,Felipe Hernandez,1,5,Medellin,cliente939@gmail.com,322488575,2025-11-26,activo
+940,Totto Santafe #15,4,5,Cucuta,cliente940@empresa.com.co,305449526,2025-07-21,activo
+941,Sebastian Torres,1,3,Cartagena,cliente941@gmail.com,322137407,2024-11-28,activo
+942,Mariana Vargas,1,3,Medellin,cliente942@gmail.com,301021494,2025-09-16,activo
+943,Camila Ortiz,1,5,Bogota,cliente943@gmail.com,318040612,2026-03-24,activo
+944,Laura Suarez,1,1,Cali,cliente944@gmail.com,317353742,2024-11-07,inactivo
+945,Mariana Pena,1,5,Bogota,cliente945@gmail.com,312701688,2024-10-05,activo
+946,Importadora Global #62,3,4,Bogota,cliente946@empresa.com.co,324784650,2026-04-16,activo
+947,Laura Gutierrez,1,5,Medellin,cliente947@gmail.com,301560573,2025-07-23,activo
+948,Sofia Gomez,1,5,Bucaramanga,cliente948@gmail.com,315380995,2024-12-21,activo
+949,Valentina Martinez,1,4,Manizales,cliente949@gmail.com,313853891,2026-04-13,activo
+950,Totto El Tesoro #6,4,5,Medellin,cliente950@empresa.com.co,322258331,2025-12-14,activo
+951,Catalina Martinez,1,3,Medellin,cliente951@gmail.com,319098979,2024-10-26,activo
+952,Andres Suarez,1,5,Bogota,cliente952@gmail.com,323768193,2025-01-25,activo
+953,Grupo Empresarial Sur #56,3,4,Bogota,cliente953@empresa.com.co,301898516,2024-07-22,activo
+954,Valentina Castro,1,1,Cucuta,cliente954@gmail.com,304187406,2025-05-31,inactivo
+955,Paula Pena,1,5,Cartagena,cliente955@gmail.com,325450404,2026-01-23,activo
+956,Sofia Morales,1,5,Barranquilla,cliente956@gmail.com,302609202,2025-12-08,activo
+957,Camila Ortiz,1,4,Bogota,cliente957@gmail.com,329236745,2026-02-21,activo
+958,Santiago Rodriguez,1,5,Bogota,cliente958@gmail.com,311064014,2025-04-03,activo
+959,Paula Martinez,1,5,Bogota,cliente959@gmail.com,319058573,2025-12-04,activo
+960,Sebastian Lopez,1,5,Medellin,cliente960@gmail.com,304472094,2025-06-12,activo
+961,Laura Morales,1,3,Ibague,cliente961@gmail.com,308945197,2024-11-10,activo
+962,Valentina Morales,1,2,Bogota,cliente962@gmail.com,318901136,2024-11-13,activo
+963,Natalia Vargas,1,5,Bucaramanga,cliente963@gmail.com,307501626,2026-04-28,activo
+964,Laura Rojas,1,5,Barranquilla,cliente964@gmail.com,317197531,2025-11-17,activo
+965,Logistica Andina #58,3,3,Medellin,cliente965@empresa.com.co,305417373,2025-01-05,activo
+966,Carlos Gutierrez,1,4,Bucaramanga,cliente966@gmail.com,314795715,2026-01-10,activo
+967,Mateo Cortes,1,1,Medellin,cliente967@gmail.com,303535551,2026-03-12,inactivo
+968,Importadora Global #90,3,3,Ibague,cliente968@empresa.com.co,322622400,2025-11-26,activo
+969,Juan Rojas,1,3,Cali,cliente969@gmail.com,327945543,2025-09-19,activo
+970,Nicolas Torres,1,5,Cali,cliente970@gmail.com,322023137,2025-10-24,activo
+971,David Mendoza,1,1,Cartagena,cliente971@gmail.com,319984440,2025-07-26,inactivo
+972,Comercializadora La 70 #37,5,5,Bogota,cliente972@empresa.com.co,308990355,2024-12-09,activo
+973,Sofia Martinez,1,4,Bogota,cliente973@gmail.com,311582647,2025-10-28,activo
+974,Gimnasio Campestre #16,2,4,Bogota,cliente974@empresa.com.co,313900427,2025-06-05,activo
+975,Laura Ramirez,1,3,Medellin,cliente975@gmail.com,303117049,2026-04-03,activo
+976,Soluciones TI SAS #55,3,4,Barranquilla,cliente976@empresa.com.co,308304686,2025-10-28,activo
+977,Sebastian Garcia,1,4,Cucuta,cliente977@gmail.com,325326615,2025-10-14,activo
+978,Institucion Educativa Nacional #94,2,5,Pereira,cliente978@empresa.com.co,302460078,2024-12-15,activo
+979,Seguros Bolivar Ltda #72,3,5,Bogota,cliente979@empresa.com.co,316471499,2025-02-04,activo
+980,Mateo Mendoza,1,5,Ibague,cliente980@gmail.com,311207430,2026-02-07,activo
+981,Colegio Los Andes #15,2,4,Bucaramanga,cliente981@empresa.com.co,313510581,2025-07-10,activo
+982,Falabella #37,5,5,Medellin,cliente982@empresa.com.co,322681144,2025-03-01,activo
+983,Valentina Cortes,1,4,Cartagena,cliente983@gmail.com,305799841,2025-11-11,activo
+984,Catalina Rojas,1,2,Bogota,cliente984@gmail.com,315431477,2026-01-26,activo
+985,David Jimenez,1,4,Barranquilla,cliente985@gmail.com,328936405,2026-04-30,activo
+986,Camila Hernandez,1,1,Bogota,cliente986@gmail.com,317760781,2025-10-21,inactivo
+987,Logistica Andina #80,3,4,Cali,cliente987@empresa.com.co,327739741,2026-04-28,activo
+988,Camila Ortiz,1,4,Cali,cliente988@gmail.com,314985919,2025-10-31,activo
+989,Soluciones TI SAS #96,3,5,Bogota,cliente989@empresa.com.co,315506097,2025-12-29,activo
+990,Mariana Gomez,1,5,Medellin,cliente990@gmail.com,316084418,2024-09-03,activo
+991,Constructora del Valle #36,3,4,Bogota,cliente991@empresa.com.co,312647814,2025-01-10,activo
+992,Daniela Garcia,1,4,Pereira,cliente992@gmail.com,318434162,2025-09-28,activo
+993,Institucion Educativa Nacional #35,2,5,Bogota,cliente993@empresa.com.co,327992286,2025-08-24,activo
+994,Andrea Martinez,1,5,Pereira,cliente994@gmail.com,308410774,2026-03-15,activo
+995,Sebastian Suarez,1,2,Barranquilla,cliente995@gmail.com,329127895,2024-07-08,activo
+996,Diego Rojas,1,4,Bogota,cliente996@gmail.com,309644791,2025-01-07,activo
+997,Laura Martinez,1,3,Barranquilla,cliente997@gmail.com,319502613,2025-01-27,activo
+998,Colegio Los Andes #18,2,4,Medellin,cliente998@empresa.com.co,321485669,2024-07-20,activo
+999,Gimnasio Campestre #25,2,3,Bogota,cliente999@empresa.com.co,301966829,2025-04-08,activo
+1000,Daniela Rodriguez,1,3,Medellin,cliente1000@gmail.com,311848243,2024-07-11,activo
+1001,Mariana Ramirez,1,3,Cucuta,cliente1001@gmail.com,317179919,2025-09-06,activo
+1002,Carlos Mendoza,1,5,Barranquilla,cliente1002@gmail.com,313078241,2024-10-22,activo
+1003,Andres Torres,1,1,Bucaramanga,cliente1003@gmail.com,319200480,2024-08-12,inactivo
+1004,Andrea Gutierrez,1,3,Bogota,cliente1004@gmail.com,308962169,2025-04-08,activo
+1005,Tiendas Multimarca SA #36,5,5,Bogota,cliente1005@empresa.com.co,316775539,2025-06-09,activo
+1006,Laura Vargas,1,2,Ibague,cliente1006@gmail.com,322516524,2024-08-21,inactivo
+1007,Sofia Gomez,1,2,Bucaramanga,cliente1007@gmail.com,311833006,2025-10-21,activo
+1008,Laura Cortes,1,5,Medellin,cliente1008@gmail.com,304713654,2025-03-14,activo
+1009,Daniela Ramirez,1,5,Bogota,cliente1009@gmail.com,317870390,2025-05-14,activo
+1010,Diego Gomez,1,5,Bogota,cliente1010@gmail.com,321149283,2025-09-16,activo
+1011,Comercializadora La 70 #9,5,5,Cali,cliente1011@empresa.com.co,323905824,2024-07-26,activo
+1012,Andrea Gomez,1,4,Cucuta,cliente1012@gmail.com,305234408,2025-01-01,activo
+1013,Andrea Morales,1,4,Cali,cliente1013@gmail.com,325620085,2025-08-24,activo
+1014,Paula Ortiz,1,5,Bogota,cliente1014@gmail.com,318700708,2024-06-11,activo
+1015,Distrimax SAS #14,5,5,Bogota,cliente1015@empresa.com.co,316069153,2025-09-30,activo
+1016,Colegio Los Andes #75,2,4,Cali,cliente1016@empresa.com.co,301123271,2025-01-12,activo
+1017,Diego Rojas,1,3,Cali,cliente1017@gmail.com,325742531,2026-02-14,activo
+1018,Distrimax SAS #7,5,5,Bogota,cliente1018@empresa.com.co,312071008,2024-09-20,activo
+1019,Distrimax SAS #18,5,5,Bucaramanga,cliente1019@empresa.com.co,326454894,2026-02-26,activo
+1020,Mateo Vargas,1,3,Cali,cliente1020@gmail.com,326012883,2025-10-18,activo
+1021,Sebastian Garcia,1,4,Medellin,cliente1021@gmail.com,325031599,2024-06-12,activo
+1022,Camila Rivera,1,5,Bogota,cliente1022@gmail.com,316361758,2025-04-21,activo
+1023,Falabella #2,5,5,Medellin,cliente1023@empresa.com.co,329344531,2026-01-26,activo
+1024,Sofia Vargas,1,4,Barranquilla,cliente1024@gmail.com,317788043,2026-05-05,activo
+1025,David Rodriguez,1,5,Bogota,cliente1025@gmail.com,324186247,2025-04-09,activo
+1026,Felipe Torres,1,2,Bucaramanga,cliente1026@gmail.com,329969688,2026-03-21,inactivo
+1027,Natalia Rojas,1,5,Bogota,cliente1027@gmail.com,326036433,2025-04-09,activo
+1028,Gimnasio Campestre #85,2,4,Bogota,cliente1028@empresa.com.co,324038955,2025-07-30,activo
+1029,Sofia Lopez,1,4,Barranquilla,cliente1029@gmail.com,313146546,2024-11-22,activo
+1030,Colegio Britanico #93,2,4,Bogota,cliente1030@empresa.com.co,324071377,2024-10-22,activo
+1031,Consultora Vertex #43,3,4,Bucaramanga,cliente1031@empresa.com.co,322498202,2024-06-10,activo
+1032,Daniela Rojas,1,5,Bogota,cliente1032@gmail.com,306152035,2024-12-12,activo
+1033,Paula Castro,1,5,Bogota,cliente1033@gmail.com,315371458,2025-04-27,activo
+1034,Colegio Britanico #60,2,4,Cali,cliente1034@empresa.com.co,308894293,2025-09-28,activo
+1035,Camila Cortes,1,5,Cucuta,cliente1035@gmail.com,322194801,2026-01-25,activo
+1036,Seguros Bolivar Ltda #25,3,4,Cartagena,cliente1036@empresa.com.co,323010177,2026-04-03,activo
+1037,David Mendoza,1,5,Bogota,cliente1037@gmail.com,317930789,2025-08-19,activo
+1038,Colegio San Jose #20,2,5,Bucaramanga,cliente1038@empresa.com.co,304360419,2025-06-11,activo
+1039,Felipe Suarez,1,5,Medellin,cliente1039@gmail.com,328676774,2026-03-25,activo
+1040,Santiago Castro,1,4,Cali,cliente1040@gmail.com,324025884,2024-12-11,activo
+1041,Juan Jimenez,1,3,Manizales,cliente1041@gmail.com,313966618,2025-09-23,activo
+1042,Institucion Educativa Nacional #82,2,4,Medellin,cliente1042@empresa.com.co,301079079,2025-08-28,activo
+1043,Carlos Vargas,1,5,Barranquilla,cliente1043@gmail.com,303828735,2025-04-04,activo
+1044,Nicolas Hernandez,1,3,Barranquilla,cliente1044@gmail.com,312477088,2026-04-06,activo
+1045,Santiago Rivera,1,5,Cartagena,cliente1045@gmail.com,318204299,2024-12-28,activo
+1046,David Suarez,1,5,Bogota,cliente1046@gmail.com,317430982,2025-01-03,activo
+1047,Andres Rodriguez,1,5,Bogota,cliente1047@gmail.com,324345615,2025-05-20,activo
+1048,Totto Santafe #1,4,5,Bogota,cliente1048@empresa.com.co,319909268,2025-12-03,activo
+1049,Sebastian Gomez,1,5,Barranquilla,cliente1049@gmail.com,321069186,2024-12-05,activo
+1050,Daniela Torres,1,4,Bogota,cliente1050@gmail.com,326777230,2024-07-21,activo
+1051,Sofia Garcia,1,5,Barranquilla,cliente1051@gmail.com,307434909,2026-02-25,activo
+1052,Grupo Empresarial Sur #76,3,5,Barranquilla,cliente1052@empresa.com.co,313802133,2024-08-19,activo
+1053,Juan Rodriguez,1,5,Bogota,cliente1053@gmail.com,315879280,2024-11-27,activo
+1054,Carlos Mendoza,1,4,Cali,cliente1054@gmail.com,329793234,2025-02-12,activo
+1055,Felipe Suarez,1,5,Cartagena,cliente1055@gmail.com,323244614,2025-12-21,activo
+1056,Felipe Jimenez,1,1,Manizales,cliente1056@gmail.com,314161264,2026-04-18,activo
+1057,Laura Ortiz,1,4,Medellin,cliente1057@gmail.com,304832222,2025-05-31,activo
+1058,Falabella #9,5,4,Pereira,cliente1058@empresa.com.co,301367643,2024-08-13,activo
+1059,Nicolas Mendoza,1,2,Cali,cliente1059@gmail.com,303066315,2025-05-29,activo
+1060,Mariana Rodriguez,1,5,Pereira,cliente1060@gmail.com,315291430,2025-10-01,activo
+1061,Importadora Global #69,3,5,Pereira,cliente1061@empresa.com.co,321815153,2025-11-21,activo
+1062,Andrea Rodriguez,1,5,Cali,cliente1062@gmail.com,322813842,2024-09-24,activo
+1063,Andres Rodriguez,1,5,Bogota,cliente1063@gmail.com,322942630,2025-10-13,activo
+1064,Paula Gutierrez,1,4,Bogota,cliente1064@gmail.com,313073581,2024-09-28,activo
+1065,Catalina Vargas,1,4,Bucaramanga,cliente1065@gmail.com,313569046,2025-11-10,activo
+1066,Sebastian Gomez,1,4,Bogota,cliente1066@gmail.com,318061051,2024-07-31,activo
+1067,Valentina Mendoza,1,4,Bogota,cliente1067@gmail.com,313301222,2026-03-04,activo
+1068,Paula Lopez,1,5,Medellin,cliente1068@gmail.com,322975258,2024-08-15,activo
+1069,Sofia Lopez,1,3,Cali,cliente1069@gmail.com,309350675,2025-08-12,activo
+1070,Sebastian Rivera,1,5,Bogota,cliente1070@gmail.com,305412305,2025-03-09,activo
+1071,Diego Ramirez,1,3,Bogota,cliente1071@gmail.com,317874568,2026-04-23,activo
+1072,Sofia Hernandez,1,5,Cali,cliente1072@gmail.com,309327450,2025-03-27,activo
+1073,Sebastian Jimenez,1,5,Cali,cliente1073@gmail.com,314934345,2025-10-15,activo
+1074,Colegio San Jose #2,2,5,Bogota,cliente1074@empresa.com.co,322493219,2025-05-27,activo
+1075,Valentina Cortes,1,5,Pereira,cliente1075@gmail.com,329289690,2025-08-29,activo
+1076,Santiago Martinez,1,5,Bogota,cliente1076@gmail.com,322259100,2025-08-11,activo
+1077,Valentina Vargas,1,4,Medellin,cliente1077@gmail.com,324878226,2024-09-11,activo
+1078,Carlos Morales,1,4,Bogota,cliente1078@gmail.com,318789281,2025-03-10,activo
+1079,Totto C.C. Andino #4,4,5,Bogota,cliente1079@empresa.com.co,301661769,2025-06-01,activo
+1080,Sofia Rojas,1,5,Bogota,cliente1080@gmail.com,326246354,2025-12-23,activo
+1081,Paula Lopez,1,3,Medellin,cliente1081@gmail.com,301769891,2025-07-09,activo
+1082,Andres Garcia,1,5,Barranquilla,cliente1082@gmail.com,323860721,2024-11-30,activo
+1083,Felipe Rojas,1,3,Bucaramanga,cliente1083@gmail.com,315501484,2025-06-21,activo
+1084,Consultora Vertex #12,3,4,Cartagena,cliente1084@empresa.com.co,316749933,2026-01-29,activo
+1085,Laura Lopez,1,5,Medellin,cliente1085@gmail.com,317715084,2025-12-22,activo
+1086,Carlos Vargas,1,3,Bogota,cliente1086@gmail.com,319023619,2026-02-06,activo
+1087,Totto El Tesoro #21,4,5,Medellin,cliente1087@empresa.com.co,302896774,2024-07-25,activo
+1088,Santiago Rodriguez,1,3,Cartagena,cliente1088@gmail.com,302740017,2026-03-12,activo
+1089,Paula Cortes,1,5,Bogota,cliente1089@gmail.com,318351152,2026-02-22,activo
+1090,Laura Rivera,1,5,Cali,cliente1090@gmail.com,317016291,2026-04-29,activo
+1091,Andrea Gomez,1,4,Barranquilla,cliente1091@gmail.com,323192032,2024-07-24,activo
+1092,Natalia Jimenez,1,4,Cartagena,cliente1092@gmail.com,307900204,2025-04-09,activo
+1093,Comercializadora La 70 #3,5,5,Cali,cliente1093@empresa.com.co,305389135,2025-01-18,activo
+1094,Felipe Gomez,1,4,Medellin,cliente1094@gmail.com,329804983,2025-02-24,activo
+1095,Nicolas Cortes,1,2,Medellin,cliente1095@gmail.com,306675742,2025-05-01,activo
+1096,Liceo Moderno #56,2,4,Barranquilla,cliente1096@empresa.com.co,325170429,2025-10-24,activo
+1097,Natalia Rojas,1,5,Bogota,cliente1097@gmail.com,327457158,2025-09-20,activo
+1098,Santiago Pena,1,2,Bogota,cliente1098@gmail.com,321915467,2026-01-01,inactivo
+1099,Colegio San Jose #83,2,4,Cali,cliente1099@empresa.com.co,309482016,2024-07-18,activo
+1100,Universidad del Norte #64,2,5,Cali,cliente1100@empresa.com.co,302256030,2025-12-16,activo
+1101,Universidad del Norte #42,2,4,Cartagena,cliente1101@empresa.com.co,306551494,2025-06-08,activo
+1102,Mateo Rodriguez,1,5,Barranquilla,cliente1102@gmail.com,324736395,2025-08-21,activo
+1103,Colegio Los Andes #52,2,4,Bogota,cliente1103@empresa.com.co,302322557,2024-10-19,activo
+1104,Totto El Tesoro #15,4,5,Bucaramanga,cliente1104@empresa.com.co,328517846,2026-03-16,activo
+1105,Liceo Moderno #64,2,4,Cali,cliente1105@empresa.com.co,316302632,2025-09-14,activo
+1106,Totto C.C. Andino #16,4,5,Cali,cliente1106@empresa.com.co,321298116,2025-08-30,activo
+1107,Valentina Ortiz,1,5,Medellin,cliente1107@gmail.com,311601160,2025-10-29,activo
+1108,Catalina Pena,1,5,Bogota,cliente1108@gmail.com,302524974,2025-01-12,activo
+1109,Andrea Rivera,1,1,Bogota,cliente1109@gmail.com,326110305,2025-04-02,activo
+1110,Totto Chipichape #18,4,5,Cali,cliente1110@empresa.com.co,308653898,2024-10-14,activo
+1111,Felipe Rojas,1,5,Barranquilla,cliente1111@gmail.com,304739945,2025-03-03,activo
+1112,Importadora Global #59,3,4,Barranquilla,cliente1112@empresa.com.co,318937865,2025-12-26,activo
+1113,Mariana Gutierrez,1,4,Barranquilla,cliente1113@gmail.com,302634721,2024-12-08,activo
+1114,Falabella #1,5,5,Barranquilla,cliente1114@empresa.com.co,316958243,2025-01-20,activo
+1115,Sofia Pena,1,4,Bogota,cliente1115@gmail.com,327272839,2025-10-14,activo
+1116,Valentina Rodriguez,1,5,Cali,cliente1116@gmail.com,309261472,2024-12-08,activo
+1117,Santiago Suarez,1,1,Cartagena,cliente1117@gmail.com,305266266,2025-12-13,activo
+1118,Universidad Central #25,2,4,Bogota,cliente1118@empresa.com.co,307591709,2024-08-03,activo
+1119,Sebastian Gutierrez,1,4,Medellin,cliente1119@gmail.com,306669584,2025-04-08,activo
+1120,Valentina Suarez,1,3,Bogota,cliente1120@gmail.com,303067274,2024-06-25,activo
+1121,Importadora Global #58,3,4,Bogota,cliente1121@empresa.com.co,319459031,2025-07-07,activo
+1122,Santiago Jimenez,1,5,Barranquilla,cliente1122@gmail.com,309898037,2025-01-19,activo
+1123,Totto C.C. Andino #18,4,5,Manizales,cliente1123@empresa.com.co,319102253,2025-01-21,activo
+1124,Totto Chipichape #25,4,5,Ibague,cliente1124@empresa.com.co,303913368,2026-01-16,activo
+1125,Consultora Vertex #17,3,3,Bogota,cliente1125@empresa.com.co,307499587,2025-07-21,activo
+1126,Andrea Rivera,1,4,Bogota,cliente1126@gmail.com,319457564,2026-05-21,activo
+1127,David Suarez,1,4,Bucaramanga,cliente1127@gmail.com,325164755,2026-01-02,activo
+1128,Constructora del Valle #51,3,3,Ibague,cliente1128@empresa.com.co,315935413,2024-11-21,activo
+1129,Carlos Garcia,1,5,Medellin,cliente1129@gmail.com,307924719,2024-09-02,activo
+1130,Andrea Mendoza,1,5,Medellin,cliente1130@gmail.com,316266549,2025-12-17,activo
+1131,Catalina Ramirez,1,5,Bogota,cliente1131@gmail.com,304518395,2025-09-15,activo
+1132,Andrea Morales,1,5,Bogota,cliente1132@gmail.com,326793064,2025-12-03,activo
+1133,Santiago Hernandez,1,5,Bucaramanga,cliente1133@gmail.com,326408662,2024-06-29,activo
+1134,Consultora Vertex #15,3,3,Cali,cliente1134@empresa.com.co,319059269,2025-07-11,activo
+1135,Nicolas Cortes,1,4,Pereira,cliente1135@gmail.com,328004117,2025-07-28,activo
+1136,Catalina Morales,1,4,Ibague,cliente1136@gmail.com,311214253,2025-11-27,activo
+1137,Diego Lopez,1,2,Barranquilla,cliente1137@gmail.com,307389943,2025-03-08,activo
+1138,Santiago Rodriguez,1,5,Cali,cliente1138@gmail.com,321949670,2026-03-31,activo
+1139,Totto Unicentro #9,4,5,Medellin,cliente1139@empresa.com.co,305808610,2025-06-15,activo
+1140,Mateo Garcia,1,5,Ibague,cliente1140@gmail.com,305951637,2026-05-08,activo
+1141,Sebastian Pena,1,5,Cartagena,cliente1141@gmail.com,307017692,2025-10-28,activo
+1142,Carlos Lopez,1,3,Bogota,cliente1142@gmail.com,324763253,2025-04-24,activo
+1143,Catalina Ortiz,1,5,Barranquilla,cliente1143@gmail.com,309571853,2025-02-24,activo
+1144,Distrimax SAS #4,5,5,Bogota,cliente1144@empresa.com.co,317502088,2025-05-27,activo
+1145,Paula Castro,1,4,Barranquilla,cliente1145@gmail.com,321902651,2025-09-11,activo
+1146,Andres Vargas,1,5,Bogota,cliente1146@gmail.com,308433377,2025-09-01,activo
+1147,Daniela Rojas,1,4,Bogota,cliente1147@gmail.com,324296204,2025-10-21,activo
+1148,Sebastian Morales,1,4,Barranquilla,cliente1148@gmail.com,313976712,2026-01-24,activo
+1149,Juan Hernandez,1,4,Bogota,cliente1149@gmail.com,309620919,2025-12-13,activo
+1150,Valentina Ortiz,1,4,Barranquilla,cliente1150@gmail.com,308189168,2026-01-25,activo
+1151,Constructora del Valle #72,3,4,Ibague,cliente1151@empresa.com.co,313182154,2025-06-21,activo
+1152,Laura Cortes,1,5,Medellin,cliente1152@gmail.com,311094709,2024-09-19,activo
+1153,Felipe Gutierrez,1,5,Bogota,cliente1153@gmail.com,323597208,2026-03-26,activo
+1154,Camila Garcia,1,5,Cali,cliente1154@gmail.com,311853212,2025-02-11,activo
+1155,Andrea Morales,1,5,Bogota,cliente1155@gmail.com,317007679,2025-04-01,activo
+1156,Juan Castro,1,3,Cali,cliente1156@gmail.com,324690350,2026-02-25,activo
+1157,Totto Unicentro #17,4,5,Barranquilla,cliente1157@empresa.com.co,309474848,2024-10-31,activo
+1158,Logistica Andina #54,3,3,Manizales,cliente1158@empresa.com.co,327768215,2024-10-20,activo
+1159,Liceo Moderno #45,2,4,Bogota,cliente1159@empresa.com.co,304579482,2025-12-30,activo
+1160,Distrimax SAS #22,5,5,Bogota,cliente1160@empresa.com.co,315925360,2026-03-09,activo
+1161,Sebastian Rivera,1,3,Ibague,cliente1161@gmail.com,328966781,2025-05-01,activo
+1162,Grupo Empresarial Sur #97,3,5,Bogota,cliente1162@empresa.com.co,321147701,2025-01-28,activo
+1163,Valentina Rojas,1,5,Ibague,cliente1163@gmail.com,315032368,2026-01-10,activo
+1164,Consultora Vertex #79,3,5,Cucuta,cliente1164@empresa.com.co,325090740,2024-08-01,activo
+1165,Camila Castro,1,2,Bogota,cliente1165@gmail.com,312902100,2024-10-30,activo
+1166,David Vargas,1,4,Medellin,cliente1166@gmail.com,325745083,2024-12-11,activo
+1167,Andres Mendoza,1,5,Bogota,cliente1167@gmail.com,319628674,2024-09-15,activo
+1168,Tiendas Multimarca SA #29,5,5,Bucaramanga,cliente1168@empresa.com.co,311735708,2026-04-28,activo
+1169,Sofia Ramirez,1,5,Bogota,cliente1169@gmail.com,319621722,2025-12-27,activo
+1170,Juan Lopez,1,1,Bogota,cliente1170@gmail.com,309945709,2024-11-15,activo
+1171,Andres Martinez,1,4,Bogota,cliente1171@gmail.com,304576485,2025-02-11,activo
+1172,Paula Lopez,1,4,Bogota,cliente1172@gmail.com,308302077,2024-10-30,activo
+1173,Consultora Vertex #10,3,5,Bogota,cliente1173@empresa.com.co,323579573,2025-02-02,activo
+1174,Soluciones TI SAS #59,3,3,Bogota,cliente1174@empresa.com.co,326565260,2024-07-30,activo
+1175,Camila Martinez,1,5,Bogota,cliente1175@gmail.com,301910467,2025-07-11,activo
+1176,Logistica Andina #33,3,4,Bogota,cliente1176@empresa.com.co,322181822,2025-07-24,activo
+1177,Nicolas Torres,1,5,Bogota,cliente1177@gmail.com,317838943,2025-08-24,activo
+1178,David Gutierrez,1,1,Medellin,cliente1178@gmail.com,327785511,2024-07-30,inactivo
+1179,Paula Castro,1,3,Bogota,cliente1179@gmail.com,307534756,2026-01-14,activo
+1180,Valentina Pena,1,1,Medellin,cliente1180@gmail.com,302060950,2025-04-27,activo
+1181,Colegio San Jose #90,2,3,Cali,cliente1181@empresa.com.co,307001212,2025-09-24,activo
+1182,Liceo Moderno #38,2,3,Pereira,cliente1182@empresa.com.co,326055825,2025-01-12,activo
+1183,Andrea Martinez,1,5,Pereira,cliente1183@gmail.com,318342987,2026-05-14,activo
+1184,Totto El Tesoro #13,4,5,Medellin,cliente1184@empresa.com.co,321517059,2024-10-19,activo
+1185,Natalia Hernandez,1,5,Bucaramanga,cliente1185@gmail.com,324688734,2025-05-21,activo
+1186,Santiago Ortiz,1,5,Pereira,cliente1186@gmail.com,325948917,2025-02-16,activo
+1187,Consultora Vertex #19,3,5,Medellin,cliente1187@empresa.com.co,317260091,2025-01-23,activo
+1188,Andres Pena,1,5,Bucaramanga,cliente1188@gmail.com,323371859,2024-08-30,activo
+1189,Valentina Rodriguez,1,5,Cucuta,cliente1189@gmail.com,307611593,2024-10-05,activo
+1190,Catalina Pena,1,5,Cali,cliente1190@gmail.com,306111869,2025-05-19,activo
+1191,Sebastian Rojas,1,5,Bogota,cliente1191@gmail.com,307923193,2025-07-03,activo
+1192,Diego Garcia,1,4,Barranquilla,cliente1192@gmail.com,304086885,2024-09-10,activo
+1193,Daniela Rivera,1,5,Bogota,cliente1193@gmail.com,314260252,2024-12-18,activo
+1194,Valentina Hernandez,1,5,Bogota,cliente1194@gmail.com,321912484,2026-01-16,activo
+1195,Catalina Gutierrez,1,3,Cucuta,cliente1195@gmail.com,322227162,2026-04-30,activo
+1196,Sofia Martinez,1,5,Bogota,cliente1196@gmail.com,312647562,2025-02-25,activo
+1197,Universidad Central #93,2,3,Medellin,cliente1197@empresa.com.co,329173698,2024-08-02,activo
+1198,Felipe Rojas,1,5,Pereira,cliente1198@gmail.com,304934808,2025-12-26,activo
+1199,Valentina Morales,1,5,Barranquilla,cliente1199@gmail.com,322171198,2024-11-06,activo
+1200,Sebastian Castro,1,5,Pereira,cliente1200@gmail.com,318560584,2024-11-27,activo
+1201,Felipe Rivera,1,2,Bogota,cliente1201@gmail.com,326128383,2026-02-17,activo
+1202,Gimnasio Campestre #73,2,3,Barranquilla,cliente1202@empresa.com.co,327115185,2025-11-23,activo
+1203,Felipe Suarez,1,4,Medellin,cliente1203@gmail.com,301081065,2025-02-08,activo
+1204,Felipe Torres,1,4,Medellin,cliente1204@gmail.com,308316947,2026-03-25,activo
+1205,Mateo Rojas,1,4,Bogota,cliente1205@gmail.com,306562703,2024-10-28,activo
+1206,Natalia Gutierrez,1,4,Manizales,cliente1206@gmail.com,317018685,2025-05-04,activo
+1207,Sofia Jimenez,1,4,Bucaramanga,cliente1207@gmail.com,322825908,2024-09-20,activo
+1208,Laura Rivera,1,3,Medellin,cliente1208@gmail.com,305707954,2025-08-04,activo
+1209,Falabella #35,5,5,Bucaramanga,cliente1209@empresa.com.co,305416344,2025-03-14,activo
+1210,Consultora Vertex #81,3,3,Bogota,cliente1210@empresa.com.co,302265001,2024-06-22,activo
+1211,Andres Mendoza,1,5,Medellin,cliente1211@gmail.com,321523352,2025-06-03,activo
+1212,Nicolas Cortes,1,5,Manizales,cliente1212@gmail.com,314569531,2025-06-03,activo
+1213,Camila Pena,1,5,Bogota,cliente1213@gmail.com,318920589,2024-06-26,activo
+1214,Santiago Rojas,1,4,Medellin,cliente1214@gmail.com,314746463,2026-01-26,activo
+1215,Nicolas Morales,1,5,Bogota,cliente1215@gmail.com,308796391,2025-04-20,activo
+1216,Diego Mendoza,1,2,Bogota,cliente1216@gmail.com,307656950,2025-11-04,inactivo
+1217,Mariana Mendoza,1,3,Cali,cliente1217@gmail.com,305007754,2024-12-20,activo
+1218,Andrea Hernandez,1,1,Medellin,cliente1218@gmail.com,323355029,2025-12-30,activo
+1219,Carlos Hernandez,1,3,Bucaramanga,cliente1219@gmail.com,303452813,2024-08-30,activo
+1220,Universidad del Norte #46,2,4,Bogota,cliente1220@empresa.com.co,304671175,2025-10-01,activo
+1221,Natalia Torres,1,5,Cucuta,cliente1221@gmail.com,305435176,2025-03-06,activo
+1222,Mariana Torres,1,2,Bogota,cliente1222@gmail.com,304469093,2026-01-17,activo
+1223,Diego Rojas,1,4,Cartagena,cliente1223@gmail.com,318879825,2024-11-16,activo
+1224,Carlos Rodriguez,1,5,Bogota,cliente1224@gmail.com,306437011,2026-04-24,activo
+1225,Valentina Mendoza,1,5,Cucuta,cliente1225@gmail.com,325588489,2024-12-09,activo
+1226,Mateo Cortes,1,5,Barranquilla,cliente1226@gmail.com,323916715,2025-01-15,activo
+1227,Seguros Bolivar Ltda #84,3,4,Cucuta,cliente1227@empresa.com.co,317128662,2026-02-28,activo
+1228,Liceo Moderno #67,2,3,Bogota,cliente1228@empresa.com.co,317313749,2024-12-20,activo
+1229,Falabella #34,5,5,Bogota,cliente1229@empresa.com.co,316920646,2025-10-29,activo
+1230,Institucion Educativa Nacional #63,2,4,Barranquilla,cliente1230@empresa.com.co,311110690,2026-05-14,activo
+1231,Diego Garcia,1,3,Medellin,cliente1231@gmail.com,313778404,2024-07-27,activo
+1232,Daniela Martinez,1,3,Bogota,cliente1232@gmail.com,325711201,2025-02-03,activo
+1233,Logistica Andina #20,3,3,Cucuta,cliente1233@empresa.com.co,303640018,2024-10-12,activo
+1234,Mariana Rivera,1,4,Cucuta,cliente1234@gmail.com,322985251,2024-07-15,activo
+1235,Daniela Suarez,1,1,Bogota,cliente1235@gmail.com,312901507,2025-08-03,activo
+1236,Natalia Jimenez,1,1,Ibague,cliente1236@gmail.com,314535025,2025-04-18,activo
+1237,Nicolas Hernandez,1,5,Bogota,cliente1237@gmail.com,327893744,2025-05-06,activo
+1238,Andres Torres,1,3,Bucaramanga,cliente1238@gmail.com,303145556,2025-11-25,activo
+1239,Nicolas Cortes,1,5,Manizales,cliente1239@gmail.com,303260294,2026-01-10,activo
+1240,Colegio San Jose #74,2,3,Bogota,cliente1240@empresa.com.co,301938047,2024-06-05,activo
+1241,Laura Vargas,1,3,Barranquilla,cliente1241@gmail.com,309667792,2025-03-24,activo
+1242,David Rivera,1,5,Manizales,cliente1242@gmail.com,321312392,2026-03-07,activo
+1243,Totto Santafe #3,4,5,Bogota,cliente1243@empresa.com.co,308536381,2025-10-11,activo
+1244,Andrea Jimenez,1,5,Bogota,cliente1244@gmail.com,313861635,2024-10-11,activo
+1245,Daniela Suarez,1,5,Medellin,cliente1245@gmail.com,323394312,2026-01-20,activo
+1246,Nicolas Hernandez,1,4,Bucaramanga,cliente1246@gmail.com,329569884,2025-06-18,activo
+1247,Mateo Hernandez,1,4,Medellin,cliente1247@gmail.com,326749069,2025-01-02,activo
+1248,Carlos Rivera,1,5,Medellin,cliente1248@gmail.com,322154992,2024-09-27,activo
+1249,Daniela Ortiz,1,2,Cali,cliente1249@gmail.com,313218169,2026-03-12,activo
+1250,Valentina Gomez,1,1,Bucaramanga,cliente1250@gmail.com,309769641,2025-09-18,inactivo
+1251,Tiendas Multimarca SA #27,5,5,Cartagena,cliente1251@empresa.com.co,302615622,2025-07-13,activo
+1252,Laura Jimenez,1,5,Manizales,cliente1252@gmail.com,321654924,2025-03-15,activo
+1253,Catalina Mendoza,1,4,Bogota,cliente1253@gmail.com,302563468,2026-01-17,activo
+1254,Seguros Bolivar Ltda #85,3,3,Bogota,cliente1254@empresa.com.co,301020136,2025-07-21,activo
+1255,Paula Mendoza,1,3,Bogota,cliente1255@gmail.com,317213902,2026-05-08,activo
+1256,Camila Mendoza,1,4,Bogota,cliente1256@gmail.com,314850140,2025-08-03,activo
+1257,Universidad del Norte #99,2,4,Bogota,cliente1257@empresa.com.co,316880713,2025-09-18,activo
+1258,Nicolas Cortes,1,4,Bogota,cliente1258@gmail.com,308138527,2024-10-03,activo
+1259,Santiago Vargas,1,4,Bogota,cliente1259@gmail.com,314900918,2026-04-07,activo
+1260,Importadora Global #11,3,4,Ibague,cliente1260@empresa.com.co,317855954,2024-12-04,activo
+1261,Distrimax SAS #13,5,5,Medellin,cliente1261@empresa.com.co,301119354,2025-02-06,activo
+1262,Nicolas Mendoza,1,5,Bogota,cliente1262@gmail.com,309720156,2025-10-12,activo
+1263,Andres Ortiz,1,5,Bogota,cliente1263@gmail.com,324446353,2025-08-17,activo
+1264,Felipe Suarez,1,5,Cali,cliente1264@gmail.com,312788169,2025-02-14,activo
+1265,Logistica Andina #55,3,3,Cartagena,cliente1265@empresa.com.co,325255251,2025-05-10,activo
+1266,Mateo Pena,1,5,Medellin,cliente1266@gmail.com,317134489,2026-01-02,activo
+1267,Andrea Vargas,1,4,Bogota,cliente1267@gmail.com,327668174,2024-07-31,activo
+1268,Sebastian Suarez,1,4,Medellin,cliente1268@gmail.com,329094465,2026-01-27,activo
+1269,Laura Rojas,1,1,Medellin,cliente1269@gmail.com,329116148,2026-01-04,activo
+1270,Constructora del Valle #40,3,5,Medellin,cliente1270@empresa.com.co,326777340,2025-04-27,activo
+1271,David Garcia,1,5,Cucuta,cliente1271@gmail.com,322997927,2024-08-25,activo
+1272,Falabella #29,5,5,Barranquilla,cliente1272@empresa.com.co,323714471,2025-06-18,activo
+1273,Valentina Ramirez,1,5,Medellin,cliente1273@gmail.com,327720296,2025-03-21,activo
+1274,Felipe Pena,1,5,Barranquilla,cliente1274@gmail.com,321873301,2026-05-01,activo
+1275,Laura Ortiz,1,5,Bucaramanga,cliente1275@gmail.com,321088762,2024-07-20,activo
+1276,Juan Garcia,1,4,Bogota,cliente1276@gmail.com,318304421,2025-08-16,activo
+1277,Almacenes Exito #5,5,5,Barranquilla,cliente1277@empresa.com.co,314720687,2024-07-26,activo
+1278,Mariana Martinez,1,5,Cali,cliente1278@gmail.com,321633429,2025-03-18,activo
+1279,Consultora Vertex #50,3,4,Cartagena,cliente1279@empresa.com.co,319741022,2025-08-15,activo
+1280,Sofia Rivera,1,5,Bogota,cliente1280@gmail.com,303940561,2024-08-16,activo
+1281,Natalia Gutierrez,1,3,Medellin,cliente1281@gmail.com,304384085,2025-09-30,activo
+1282,Diego Morales,1,1,Bogota,cliente1282@gmail.com,301563871,2025-03-12,activo
+1283,Andrea Mendoza,1,3,Bogota,cliente1283@gmail.com,324886793,2026-01-17,activo
+1284,Andrea Hernandez,1,1,Medellin,cliente1284@gmail.com,321605005,2024-09-30,inactivo
+1285,Constructora del Valle #31,3,5,Cali,cliente1285@empresa.com.co,321004819,2024-11-14,activo
+1286,Laura Martinez,1,4,Bucaramanga,cliente1286@gmail.com,317701385,2026-04-21,activo
+1287,Mariana Ortiz,1,5,Manizales,cliente1287@gmail.com,314360650,2026-04-04,activo
+1288,Totto Chipichape #1,4,5,Barranquilla,cliente1288@empresa.com.co,322151205,2025-08-28,activo
+1289,Juan Pena,1,5,Bucaramanga,cliente1289@gmail.com,316840069,2025-06-18,activo
+1290,Mariana Vargas,1,5,Medellin,cliente1290@gmail.com,304263591,2025-11-09,activo
+1291,Seguros Bolivar Ltda #52,3,5,Bogota,cliente1291@empresa.com.co,321078038,2026-01-21,activo
+1292,Mateo Hernandez,1,3,Pereira,cliente1292@gmail.com,319493265,2025-04-07,activo
+1293,Valentina Pena,1,4,Manizales,cliente1293@gmail.com,309441777,2024-11-28,activo
+1294,Constructora del Valle #44,3,3,Medellin,cliente1294@empresa.com.co,309611521,2025-06-06,activo
+1295,Mateo Pena,1,4,Cali,cliente1295@gmail.com,325196677,2025-01-21,activo
+1296,Carlos Ortiz,1,1,Bogota,cliente1296@gmail.com,329113963,2024-06-05,inactivo
+1297,Falabella #22,5,4,Ibague,cliente1297@empresa.com.co,318729606,2025-03-12,activo
+1298,Colegio San Jose #62,2,4,Medellin,cliente1298@empresa.com.co,305325497,2025-09-27,activo
+1299,Soluciones TI SAS #49,3,5,Cucuta,cliente1299@empresa.com.co,324697401,2025-03-16,activo
+1300,Universidad Central #41,2,3,Bogota,cliente1300@empresa.com.co,316923972,2026-05-15,activo
+1301,Diego Pena,1,5,Cali,cliente1301@gmail.com,305418274,2025-09-18,activo
+1302,Daniela Morales,1,5,Bogota,cliente1302@gmail.com,307692945,2026-04-07,activo
+1303,Felipe Martinez,1,5,Barranquilla,cliente1303@gmail.com,323994493,2024-11-08,activo
+1304,Natalia Castro,1,1,Cali,cliente1304@gmail.com,314666931,2025-03-28,activo
+1305,Nicolas Vargas,1,5,Bogota,cliente1305@gmail.com,304190481,2025-03-29,activo
+1306,Universidad del Norte #95,2,3,Manizales,cliente1306@empresa.com.co,304940319,2024-07-31,activo
+1307,Daniela Vargas,1,5,Bogota,cliente1307@gmail.com,304845464,2024-06-12,activo
+1308,Sebastian Torres,1,5,Cali,cliente1308@gmail.com,326973148,2024-09-26,activo
+1309,Santiago Lopez,1,2,Bogota,cliente1309@gmail.com,302316802,2026-01-23,activo
+1310,Comercializadora La 70 #40,5,5,Bogota,cliente1310@empresa.com.co,301709057,2024-11-14,activo
+1311,Importadora Global #62,3,4,Cucuta,cliente1311@empresa.com.co,316291817,2025-03-30,activo
+1312,Natalia Cortes,1,5,Bogota,cliente1312@gmail.com,319234347,2025-07-19,activo
+1313,Laura Mendoza,1,3,Bogota,cliente1313@gmail.com,317675310,2025-07-25,activo
+1314,Daniela Cortes,1,5,Cartagena,cliente1314@gmail.com,301908455,2025-01-07,activo
+1315,Diego Suarez,1,4,Cali,cliente1315@gmail.com,311546310,2025-03-14,activo
+1316,Tiendas Multimarca SA #23,5,4,Cali,cliente1316@empresa.com.co,313932663,2024-12-16,activo
+1317,Universidad del Norte #16,2,4,Bogota,cliente1317@empresa.com.co,329694039,2026-03-14,activo
+1318,Carlos Castro,1,5,Cali,cliente1318@gmail.com,321141240,2024-07-07,activo
+1319,Andres Ramirez,1,4,Pereira,cliente1319@gmail.com,312690268,2026-01-02,activo
+1320,Felipe Rojas,1,5,Bogota,cliente1320@gmail.com,325357055,2026-01-10,activo
+1321,Falabella #36,5,5,Bogota,cliente1321@empresa.com.co,314978534,2025-04-21,activo
+1322,Mateo Jimenez,1,2,Pereira,cliente1322@gmail.com,326756203,2024-07-31,inactivo
+1323,Mariana Hernandez,1,1,Bucaramanga,cliente1323@gmail.com,318112581,2024-07-07,activo
+1324,Sebastian Suarez,1,5,Medellin,cliente1324@gmail.com,327246319,2025-01-27,activo
+1325,Mariana Ortiz,1,5,Cali,cliente1325@gmail.com,318561977,2024-09-25,activo
+1326,Laura Cortes,1,3,Cartagena,cliente1326@gmail.com,304834713,2025-11-30,activo
+1327,Valentina Vargas,1,5,Bogota,cliente1327@gmail.com,308251427,2024-12-11,activo
+1328,David Ramirez,1,2,Medellin,cliente1328@gmail.com,303509000,2025-10-03,activo
+1329,Natalia Gomez,1,3,Bogota,cliente1329@gmail.com,308071943,2025-03-10,activo
+1330,Natalia Garcia,1,5,Bogota,cliente1330@gmail.com,329673937,2025-09-05,activo
+1331,Catalina Castro,1,4,Manizales,cliente1331@gmail.com,316033738,2026-03-07,activo
+1332,Mateo Pena,1,3,Bogota,cliente1332@gmail.com,321800429,2025-03-24,activo
+1333,David Lopez,1,2,Barranquilla,cliente1333@gmail.com,323740422,2026-01-16,activo
+1334,Camila Ramirez,1,5,Cartagena,cliente1334@gmail.com,318995004,2025-03-13,activo
+1335,Valentina Gutierrez,1,4,Bucaramanga,cliente1335@gmail.com,326614605,2025-02-15,activo
+1336,Mateo Rojas,1,4,Bogota,cliente1336@gmail.com,315323737,2024-07-29,activo
+1337,Distrimax SAS #2,5,5,Bogota,cliente1337@empresa.com.co,313034027,2026-05-13,activo
+1338,Distrimax SAS #39,5,5,Cartagena,cliente1338@empresa.com.co,303928275,2025-09-18,activo
+1339,Sofia Rojas,1,5,Pereira,cliente1339@gmail.com,319563838,2024-12-26,activo
+1340,Natalia Gutierrez,1,5,Cali,cliente1340@gmail.com,307393310,2025-03-24,activo
+1341,Andrea Morales,1,2,Medellin,cliente1341@gmail.com,313430151,2025-07-12,activo
+1342,Importadora Global #22,3,5,Bogota,cliente1342@empresa.com.co,326660436,2026-04-04,activo
+1343,Paula Rivera,1,2,Cartagena,cliente1343@gmail.com,327790959,2025-07-06,activo
+1344,Liceo Moderno #11,2,5,Bogota,cliente1344@empresa.com.co,306765079,2026-01-11,activo
+1345,Daniela Castro,1,4,Manizales,cliente1345@gmail.com,315888148,2026-05-16,activo
+1346,Mateo Rivera,1,5,Bogota,cliente1346@gmail.com,327634639,2025-12-04,activo
+1347,Mateo Gutierrez,1,5,Pereira,cliente1347@gmail.com,319739850,2024-08-14,activo
+1348,Carlos Suarez,1,1,Ibague,cliente1348@gmail.com,304085098,2025-09-29,activo
+1349,Importadora Global #3,3,3,Medellin,cliente1349@empresa.com.co,304936391,2025-10-01,activo
+1350,Mateo Martinez,1,4,Cali,cliente1350@gmail.com,303800292,2025-10-05,activo
+1351,David Lopez,1,3,Medellin,cliente1351@gmail.com,302070258,2024-12-16,activo
+1352,Universidad del Norte #71,2,5,Bogota,cliente1352@empresa.com.co,301442329,2025-10-12,activo
+1353,David Mendoza,1,5,Barranquilla,cliente1353@gmail.com,302743629,2025-11-20,activo
+1354,Mateo Rivera,1,5,Bogota,cliente1354@gmail.com,302414508,2024-09-03,activo
+1355,David Morales,1,3,Pereira,cliente1355@gmail.com,305150624,2024-07-03,activo
+1356,Colegio Britanico #57,2,5,Medellin,cliente1356@empresa.com.co,323120836,2025-05-11,activo
+1357,Totto Unicentro #17,4,5,Medellin,cliente1357@empresa.com.co,301479346,2025-05-02,activo
+1358,Camila Rojas,1,4,Bogota,cliente1358@gmail.com,318988550,2024-12-04,activo
+1359,Carlos Pena,1,4,Barranquilla,cliente1359@gmail.com,318463259,2025-04-04,activo
+1360,Santiago Pena,1,5,Bogota,cliente1360@gmail.com,308659527,2024-12-31,activo
+1361,Nicolas Suarez,1,5,Ibague,cliente1361@gmail.com,329955411,2024-07-07,activo
+1362,Totto Santafe #30,4,5,Cali,cliente1362@empresa.com.co,319080774,2025-07-12,activo
+1363,Catalina Torres,1,5,Bogota,cliente1363@gmail.com,308413185,2024-08-04,activo
+1364,Sofia Rojas,1,4,Medellin,cliente1364@gmail.com,315358838,2026-03-23,activo
+1365,Santiago Morales,1,3,Bogota,cliente1365@gmail.com,301001549,2025-10-28,activo
+1366,Diego Garcia,1,4,Cali,cliente1366@gmail.com,315811072,2025-10-16,activo
+1367,Totto El Tesoro #18,4,5,Cartagena,cliente1367@empresa.com.co,309253243,2025-09-30,activo
+1368,Natalia Morales,1,5,Cucuta,cliente1368@gmail.com,308221506,2024-12-30,activo
+1369,Sofia Rivera,1,5,Bogota,cliente1369@gmail.com,301121097,2024-11-04,activo
+1370,Catalina Rojas,1,5,Barranquilla,cliente1370@gmail.com,307907781,2025-08-02,activo
+1371,Catalina Suarez,1,5,Bucaramanga,cliente1371@gmail.com,315192561,2025-01-19,activo
+1372,Laura Ortiz,1,4,Cali,cliente1372@gmail.com,314700926,2025-02-02,activo
+1373,Mateo Martinez,1,4,Bogota,cliente1373@gmail.com,315019180,2026-01-20,activo
+1374,Totto Chipichape #25,4,5,Barranquilla,cliente1374@empresa.com.co,325561139,2024-08-14,activo
+1375,Sofia Pena,1,2,Bucaramanga,cliente1375@gmail.com,317927377,2025-12-14,activo
+1376,Sebastian Martinez,1,4,Bogota,cliente1376@gmail.com,303292170,2025-10-26,activo
+1377,Sofia Lopez,1,3,Bogota,cliente1377@gmail.com,328639388,2024-06-10,activo
+1378,Andrea Gutierrez,1,5,Pereira,cliente1378@gmail.com,319254323,2026-04-21,activo
+1379,Sebastian Castro,1,5,Cali,cliente1379@gmail.com,303552641,2024-08-01,activo
+1380,Camila Pena,1,5,Medellin,cliente1380@gmail.com,304119515,2025-08-12,activo
+1381,Valentina Morales,1,4,Bogota,cliente1381@gmail.com,313097809,2024-08-08,activo
+1382,Carlos Gomez,1,4,Bogota,cliente1382@gmail.com,302513254,2024-10-06,activo
+1383,Falabella #1,5,5,Medellin,cliente1383@empresa.com.co,314643811,2025-06-18,activo
+1384,Constructora del Valle #54,3,4,Ibague,cliente1384@empresa.com.co,319361693,2025-07-25,activo
+1385,Constructora del Valle #60,3,4,Medellin,cliente1385@empresa.com.co,321532460,2025-01-07,activo
+1386,Felipe Martinez,1,5,Barranquilla,cliente1386@gmail.com,301940167,2025-10-05,activo
+1387,Mateo Ortiz,1,5,Bogota,cliente1387@gmail.com,308887754,2025-08-30,activo
+1388,Laura Ramirez,1,1,Cali,cliente1388@gmail.com,317401806,2025-10-13,inactivo
+1389,Colegio San Jose #16,2,5,Bucaramanga,cliente1389@empresa.com.co,325176895,2026-02-19,activo
+1390,David Gutierrez,1,4,Bucaramanga,cliente1390@gmail.com,301562209,2025-08-20,activo
+1391,Sebastian Gutierrez,1,3,Bogota,cliente1391@gmail.com,322576392,2024-12-22,activo
+1392,Diego Ramirez,1,5,Cali,cliente1392@gmail.com,317528399,2026-02-02,activo
+1393,Sofia Castro,1,4,Bogota,cliente1393@gmail.com,301707762,2026-04-25,activo
+1394,Catalina Mendoza,1,4,Medellin,cliente1394@gmail.com,305249882,2025-07-27,activo
+1395,Natalia Morales,1,4,Bogota,cliente1395@gmail.com,307046955,2024-07-12,activo
+1396,Camila Ramirez,1,4,Cali,cliente1396@gmail.com,304958849,2025-06-27,activo
+1397,Paula Castro,1,3,Barranquilla,cliente1397@gmail.com,303807840,2026-01-12,activo
+1398,Mateo Cortes,1,3,Medellin,cliente1398@gmail.com,307640561,2025-10-10,activo
+1399,Daniela Gomez,1,5,Bogota,cliente1399@gmail.com,308973718,2025-08-16,activo
+1400,Totto Chipichape #5,4,5,Cartagena,cliente1400@empresa.com.co,312501223,2025-07-25,activo
+1401,Universidad Central #21,2,5,Medellin,cliente1401@empresa.com.co,312533463,2025-09-05,activo
+1402,Andrea Castro,1,4,Bogota,cliente1402@gmail.com,322007511,2025-10-19,activo
+1403,Camila Rojas,1,5,Medellin,cliente1403@gmail.com,323582322,2026-03-19,activo
+1404,Catalina Lopez,1,5,Bogota,cliente1404@gmail.com,309184645,2024-07-11,activo
+1405,Universidad Central #41,2,3,Barranquilla,cliente1405@empresa.com.co,326827024,2025-01-25,activo
+1406,Carlos Ramirez,1,4,Medellin,cliente1406@gmail.com,307337911,2025-11-27,activo
+1407,Mariana Garcia,1,1,Medellin,cliente1407@gmail.com,311662507,2026-04-05,activo
+1408,Natalia Gutierrez,1,1,Bogota,cliente1408@gmail.com,325944490,2025-07-26,inactivo
+1409,Tiendas Multimarca SA #32,5,5,Medellin,cliente1409@empresa.com.co,304131076,2024-07-15,activo
+1410,Catalina Rojas,1,5,Cali,cliente1410@gmail.com,318858359,2024-09-25,activo
+1411,Mateo Rivera,1,4,Ibague,cliente1411@gmail.com,323690116,2025-04-22,activo
+1412,Juan Mendoza,1,5,Medellin,cliente1412@gmail.com,308539415,2024-08-22,activo
+1413,Totto Santafe #27,4,5,Medellin,cliente1413@empresa.com.co,317159129,2025-03-06,activo
+1414,Carlos Gomez,1,5,Medellin,cliente1414@gmail.com,329488562,2025-09-10,activo
+1415,David Hernandez,1,5,Cartagena,cliente1415@gmail.com,307108168,2026-04-09,activo
+1416,Andrea Torres,1,5,Cucuta,cliente1416@gmail.com,312062698,2024-09-18,activo
+1417,Catalina Ortiz,1,5,Cali,cliente1417@gmail.com,309792431,2025-07-24,activo
+1418,Natalia Pena,1,4,Medellin,cliente1418@gmail.com,305750117,2024-08-31,activo
+1419,Felipe Suarez,1,4,Bogota,cliente1419@gmail.com,326402667,2025-11-11,activo
+1420,Valentina Lopez,1,5,Bogota,cliente1420@gmail.com,322118702,2025-07-03,activo
+1421,Camila Garcia,1,4,Pereira,cliente1421@gmail.com,301524686,2025-07-21,activo
+1422,Sebastian Lopez,1,1,Cartagena,cliente1422@gmail.com,314214793,2025-06-25,activo
+1423,Valentina Rodriguez,1,3,Cali,cliente1423@gmail.com,327519606,2026-03-16,activo
+1424,Natalia Mendoza,1,4,Bogota,cliente1424@gmail.com,325293936,2024-09-12,activo
+1425,Camila Rojas,1,3,Medellin,cliente1425@gmail.com,302189067,2025-08-03,activo
+1426,Andres Ramirez,1,2,Cucuta,cliente1426@gmail.com,329244416,2025-11-26,activo
+1427,Juan Gutierrez,1,4,Cartagena,cliente1427@gmail.com,322018380,2024-07-28,activo
+1428,Mariana Pena,1,5,Barranquilla,cliente1428@gmail.com,327978536,2026-01-18,activo
+1429,Institucion Educativa Nacional #91,2,4,Bogota,cliente1429@empresa.com.co,305459646,2026-04-09,activo
+1430,Diego Rodriguez,1,1,Pereira,cliente1430@gmail.com,322180916,2026-05-01,activo
+1431,Sofia Martinez,1,4,Bucaramanga,cliente1431@gmail.com,309715516,2024-06-30,activo
+1432,Valentina Lopez,1,4,Cali,cliente1432@gmail.com,324875838,2025-07-24,activo
+1433,Tiendas Multimarca SA #25,5,5,Barranquilla,cliente1433@empresa.com.co,304240006,2025-05-13,activo
+1434,Grupo Empresarial Sur #85,3,3,Cucuta,cliente1434@empresa.com.co,304001408,2024-06-16,activo
+1435,Tiendas Multimarca SA #36,5,5,Bogota,cliente1435@empresa.com.co,312770234,2026-01-08,activo
+1436,Nicolas Rojas,1,5,Bogota,cliente1436@gmail.com,328696054,2025-04-13,activo
+1437,Paula Lopez,1,1,Medellin,cliente1437@gmail.com,304026551,2024-07-10,inactivo
+1438,Catalina Ortiz,1,5,Manizales,cliente1438@gmail.com,326662526,2025-03-03,activo
+1439,Laura Pena,1,4,Medellin,cliente1439@gmail.com,328432510,2024-07-05,activo
+1440,Constructora del Valle #41,3,4,Cartagena,cliente1440@empresa.com.co,326446792,2025-07-29,activo
+1441,Mariana Suarez,1,5,Cartagena,cliente1441@gmail.com,328224069,2025-07-05,activo
+1442,Importadora Global #93,3,4,Barranquilla,cliente1442@empresa.com.co,315038654,2025-12-17,activo
+1443,Nicolas Pena,1,5,Medellin,cliente1443@gmail.com,307292514,2026-04-21,activo
+1444,Catalina Vargas,1,5,Cali,cliente1444@gmail.com,318590070,2024-11-06,activo
+1445,Carlos Ortiz,1,5,Cali,cliente1445@gmail.com,301581546,2024-10-12,activo
+1446,Sofia Rivera,1,4,Cali,cliente1446@gmail.com,309684044,2025-12-02,activo
+1447,Santiago Morales,1,5,Bogota,cliente1447@gmail.com,306038767,2025-09-23,activo
+1448,Daniela Ramirez,1,5,Medellin,cliente1448@gmail.com,311364088,2024-09-26,activo
+1449,Mateo Pena,1,3,Bogota,cliente1449@gmail.com,323595683,2025-03-06,activo
+1450,Valentina Rodriguez,1,5,Medellin,cliente1450@gmail.com,316966913,2025-06-04,activo
+1451,Santiago Garcia,1,5,Medellin,cliente1451@gmail.com,317158628,2026-01-26,activo
+1452,Nicolas Torres,1,3,Cali,cliente1452@gmail.com,305299058,2024-07-15,activo
+1453,Sofia Martinez,1,5,Cali,cliente1453@gmail.com,327707501,2025-07-13,activo
+1454,Grupo Empresarial Sur #28,3,5,Cali,cliente1454@empresa.com.co,322295227,2026-04-23,activo
+1455,Felipe Jimenez,1,1,Bogota,cliente1455@gmail.com,309191918,2024-07-02,inactivo
+1456,Nicolas Lopez,1,4,Cali,cliente1456@gmail.com,326039762,2025-09-08,activo
+1457,Camila Cortes,1,5,Cucuta,cliente1457@gmail.com,312316632,2026-01-28,activo
+1458,Camila Castro,1,5,Bogota,cliente1458@gmail.com,318286418,2024-10-01,activo
+1459,Paula Lopez,1,4,Bogota,cliente1459@gmail.com,301191837,2025-06-09,activo
+1460,David Rodriguez,1,4,Medellin,cliente1460@gmail.com,319797692,2026-05-14,activo
+1461,Camila Castro,1,5,Cucuta,cliente1461@gmail.com,323509536,2024-09-11,activo
+1462,Felipe Mendoza,1,5,Cali,cliente1462@gmail.com,324704361,2024-07-26,activo
+1463,Santiago Rodriguez,1,5,Barranquilla,cliente1463@gmail.com,327591477,2025-09-06,activo
+1464,Carlos Rivera,1,3,Medellin,cliente1464@gmail.com,329467953,2025-03-27,activo
+1465,Juan Torres,1,5,Medellin,cliente1465@gmail.com,315861752,2024-10-06,activo
+1466,David Garcia,1,5,Cucuta,cliente1466@gmail.com,306639966,2025-08-06,activo
+1467,Liceo Moderno #61,2,3,Bogota,cliente1467@empresa.com.co,321827302,2025-03-11,activo
+1468,Catalina Ortiz,1,3,Bogota,cliente1468@gmail.com,312427388,2024-10-07,activo
+1469,Colegio Los Andes #65,2,5,Barranquilla,cliente1469@empresa.com.co,313187332,2025-06-29,activo
+1470,Santiago Jimenez,1,5,Cucuta,cliente1470@gmail.com,324323709,2024-07-23,activo
+1471,Natalia Ortiz,1,4,Medellin,cliente1471@gmail.com,324290000,2025-12-16,activo
+1472,Tiendas Multimarca SA #40,5,5,Bogota,cliente1472@empresa.com.co,329795418,2026-02-20,activo
+1473,Logistica Andina #32,3,4,Bogota,cliente1473@empresa.com.co,305467052,2025-03-15,activo
+1474,Paula Castro,1,5,Ibague,cliente1474@gmail.com,322503148,2024-10-09,activo
+1475,Liceo Moderno #86,2,4,Medellin,cliente1475@empresa.com.co,318105832,2025-11-09,activo
+1476,Mariana Rojas,1,4,Cali,cliente1476@gmail.com,306381096,2026-01-21,activo
+1477,Constructora del Valle #77,3,5,Pereira,cliente1477@empresa.com.co,321406123,2024-07-13,activo
+1478,Sofia Hernandez,1,5,Bogota,cliente1478@gmail.com,318419054,2025-03-27,activo
+1479,Andrea Garcia,1,5,Medellin,cliente1479@gmail.com,311752920,2025-06-10,activo
+1480,Falabella #13,5,5,Bogota,cliente1480@empresa.com.co,327271672,2025-09-30,activo
+1481,Santiago Martinez,1,5,Bogota,cliente1481@gmail.com,301914996,2024-09-23,activo
+1482,Falabella #40,5,5,Pereira,cliente1482@empresa.com.co,305826554,2026-03-16,activo
+1483,Almacenes Exito #22,5,5,Bogota,cliente1483@empresa.com.co,322866934,2025-02-11,activo
+1484,Sofia Gutierrez,1,5,Medellin,cliente1484@gmail.com,311381650,2025-03-29,activo
+1485,Felipe Ramirez,1,4,Cali,cliente1485@gmail.com,324554677,2025-07-20,activo
+1486,Sebastian Pena,1,2,Medellin,cliente1486@gmail.com,325339561,2025-07-04,inactivo
+1487,Catalina Jimenez,1,3,Bogota,cliente1487@gmail.com,323371416,2025-11-17,activo
+1488,Andres Ortiz,1,3,Medellin,cliente1488@gmail.com,329838222,2025-12-14,activo
+1489,Camila Vargas,1,4,Bogota,cliente1489@gmail.com,302008479,2025-10-14,activo
+1490,Sofia Ramirez,1,3,Cartagena,cliente1490@gmail.com,325551347,2025-11-12,activo
+1491,Camila Gutierrez,1,5,Medellin,cliente1491@gmail.com,321139824,2024-09-04,activo
+1492,Juan Ortiz,1,3,Medellin,cliente1492@gmail.com,325551832,2025-08-06,activo
+1493,Mariana Lopez,1,3,Bogota,cliente1493@gmail.com,305907261,2024-06-05,activo
+1494,David Torres,1,5,Bogota,cliente1494@gmail.com,319531890,2025-11-11,activo
+1495,Valentina Castro,1,1,Cali,cliente1495@gmail.com,319918107,2026-04-09,activo
+1496,Juan Hernandez,1,4,Medellin,cliente1496@gmail.com,309399526,2024-08-05,activo
+1497,Carlos Pena,1,3,Cali,cliente1497@gmail.com,321360516,2025-03-21,activo
+1498,Camila Torres,1,5,Manizales,cliente1498@gmail.com,326115834,2024-10-20,activo
+1499,Felipe Jimenez,1,4,Pereira,cliente1499@gmail.com,313634111,2025-07-21,activo
+1500,Totto C.C. Andino #12,4,5,Cali,cliente1500@empresa.com.co,326904121,2026-01-05,activo

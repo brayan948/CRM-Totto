@@ -1,0 +1,26 @@
+﻿id_producto,nombre_producto,categoria,precio
+1,Morral Cambridge,Morral,147000
+2,Morral Tumi 4D,Morral,251000
+3,Morral Eco-Friendly,Morral,212000
+4,Morral Adventure,Morral,188000
+5,Morral Cubic,Morral,108000
+6,Morral Brunswik,Morral,108000
+7,Morral Tracker,Morral,90000
+8,Morral Yamir,Morral,236000
+9,Morral Gommak,Morral,188000
+10,Maleta Travel Cabina,Maleta,421000
+11,Maleta Conexion 28,Maleta,187000
+12,Maleta Expander,Maleta,510000
+13,Maleta Tellup,Maleta,463000
+14,Maleta Voyager,Maleta,252000
+15,Chaqueta Impermeable,Ropa,87000
+16,Camiseta Dry-Fit,Ropa,87000
+17,Pantalon Cargo,Ropa,108000
+18,Buzo Capota,Ropa,147000
+19,Chaqueta Pluma,Ropa,131000
+20,Cartuchera Doble,Accesorio,43000
+21,Cangurera Urban,Accesorio,67000
+22,Billetera RFID,Accesorio,32000
+23,Funda Portatil 15,Accesorio,43000
+24,Termo Acero,Accesorio,49000
+25,Gorra Trail,Accesorio,55000

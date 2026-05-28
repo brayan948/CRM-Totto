@@ -1,0 +1,6 @@
+﻿id_tipo_cliente,nombre_tipo,descripcion
+1,B2C - Consumidor final,Persona natural que compra en tienda o e-commerce
+2,Colegio / Universidad,Institucion educativa que compra morrales en volumen
+3,Empresa corporativa,Empresa que compra maletas ejecutivas con marca
+4,Franquiciado,Operador de tienda franquicia Totto
+5,Distribuidor multimarca,Almacen que revende productos Totto
